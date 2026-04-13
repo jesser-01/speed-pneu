@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "convert": "node converter-interactive.js",
+    "convert:example": "node converter.js example-data.csv converted-example.json && echo '✓ Example conversion complete! Check converted-example.json'"
   },
   "dependencies": {
     "react": "^19.2.4",
