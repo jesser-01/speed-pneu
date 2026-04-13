@@ -61,7 +61,7 @@ export async function parseExcelBuffer(buffer, sheetName = null) {
       const product = {};
 
       Object.keys(row).forEach(key => {
-        const lowerKey = key.toLowerCase().trim();
+        const lowerKey = key.toLowerCase().trim().replace('local ', '').replace(/_/g, ' ');
         
         if (lowerKey.includes('dimension')) {
           product.dimension = String(row[key]).trim();
@@ -69,13 +69,13 @@ export async function parseExcelBuffer(buffer, sheetName = null) {
           product.marque = String(row[key]).trim();
         } else if (lowerKey.includes('reference') || lowerKey.includes('référence')) {
           product.reference = String(row[key]).trim();
-        } else if (lowerKey.includes('stock') && lowerKey.includes('total')) {
+        } else if ((lowerKey.includes('stock') && lowerKey.includes('total')) || lowerKey.includes('total stock')) {
           product.stock_total = parseInt(row[key]) || 0;
-        } else if (lowerKey.includes('aouina')) {
+        } else if (lowerKey.includes('aouina') || lowerKey.includes('aouiina') || lowerKey.includes('warehouse1') || lowerKey.includes('lieu1')) {
           product.stock_aouina = parseInt(row[key]) || 0;
-        } else if (lowerKey.includes('dibou')) {
+        } else if (lowerKey.includes('dibou') || lowerKey.includes('warehouse2') || lowerKey.includes('lieu2')) {
           product.stock_dibou = parseInt(row[key]) || 0;
-        } else if (lowerKey.includes('ariana')) {
+        } else if (lowerKey.includes('ariana') || lowerKey.includes('warehouse3') || lowerKey.includes('lieu3')) {
           product.stock_ariana = parseInt(row[key]) || 0;
         } else if (lowerKey.includes('prix') || lowerKey.includes('price')) {
           product.prix = parseFloat(row[key]) || 0;

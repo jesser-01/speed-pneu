@@ -37,7 +37,7 @@ function parseExcelFile(filePath, sheetName = null) {
 
       // Map all possible column name variations to standard names
       Object.keys(row).forEach(key => {
-        const lowerKey = key.toLowerCase().trim();
+        const lowerKey = key.toLowerCase().trim().replace('local ', '').replace('_', ' ');
         
         if (lowerKey.includes('dimension')) {
           product.dimension = row[key];
@@ -45,13 +45,13 @@ function parseExcelFile(filePath, sheetName = null) {
           product.marque = row[key];
         } else if (lowerKey.includes('reference') || lowerKey.includes('référence') || lowerKey.includes('ref')) {
           product.reference = row[key];
-        } else if (lowerKey.includes('stock') && lowerKey.includes('total')) {
+        } else if ((lowerKey.includes('stock') && lowerKey.includes('total')) || lowerKey.includes('total stock')) {
           product.stock_total = parseInt(row[key]) || 0;
-        } else if (lowerKey.includes('aouina') || lowerKey.includes('location') || lowerKey.includes('warehouse1')) {
+        } else if (lowerKey.includes('aouina') || lowerKey.includes('aouiina') || lowerKey.includes('warehouse1') || lowerKey.includes('lieu1')) {
           product.stock_aouina = parseInt(row[key]) || 0;
-        } else if (lowerKey.includes('dibou') || lowerKey.includes('warehouse2')) {
+        } else if (lowerKey.includes('dibou') || lowerKey.includes('warehouse2') || lowerKey.includes('lieu2')) {
           product.stock_dibou = parseInt(row[key]) || 0;
-        } else if (lowerKey.includes('ariana') || lowerKey.includes('warehouse3')) {
+        } else if (lowerKey.includes('ariana') || lowerKey.includes('warehouse3') || lowerKey.includes('lieu3')) {
           product.stock_ariana = parseInt(row[key]) || 0;
         } else if (lowerKey.includes('prix') || lowerKey.includes('price') || lowerKey.includes('cost')) {
           product.prix = parseFloat(row[key]) || 0;
