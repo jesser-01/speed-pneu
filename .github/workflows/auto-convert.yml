@@ -1,9 +1,9 @@
-name: Auto-Convert Data on Push
+name: Auto-Convert Excel Data on Push
 
 on:
   push:
     paths:
-      - 'public/data.csv'
+      - 'public/data.xlsx'
     branches:
       - master
       - main
@@ -24,12 +24,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Convert data.csv to products.json
-        run: node converter.js public/data.csv public/products.json
+      - name: Convert data.xlsx to products.json
+        run: node excel-converter.js public/data.xlsx public/products.json
 
       - name: Commit and push if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add public/products.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-generate products.json from data.csv" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-generate products.json from data.xlsx" && git push)

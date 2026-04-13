@@ -8,12 +8,14 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "convert": "node converter-interactive.js",
-    "convert:example": "node converter.js example-data.csv converted-example.json && echo '✓ Example conversion complete! Check converted-example.json'"
+    "convert:excel": "node excel-converter-interactive.js",
+    "convert:excel:cmd": "node excel-converter.js",
+    "list:sheets": "node excel-converter.js --list"
   },
   "dependencies": {
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",

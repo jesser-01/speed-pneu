@@ -3,14 +3,14 @@ import SearchBar from './SearchBar';
 import Filters from './Filters';
 import ProductTable from './ProductTable';
 import useDebounce from '../hooks/useDebounce';
-import { fetchAndParseData } from '../utils/csvParser';
+import { parseExcelBuffer } from '../utils/excelParser';
 import '../styles/App.css';
 
 export default function App() {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [lastUpdate, setLastUpdate] = useState(null);
-  const [dataSource, setDataSource] = useState('csv'); // 'csv' or 'json'
+  const [dataSource, setDataSource] = useState('json'); // 'excel' or 'json'
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedBrand, setSelectedBrand] = useState('');
   const [showOnlyAvailable, setShowOnlyAvailable] = useState(false);
@@ -20,7 +20,7 @@ export default function App() {
 
   const debouncedSearchTerm = useDebounce(searchTerm, 300);
 
-  // Load products - try CSV first, then fall back to JSON
+  // Load products - try Excel first, then fall back to JSON
   useEffect(() => {
     const loadProducts = async () => {
       try {
@@ -28,12 +28,18 @@ export default function App() {
         let data;
         let source = 'json';
 
-        // Try to load from data.csv first (automatically converted)
+        // Try to load from data.xlsx first (Excel format)
         try {
-          data = await fetchAndParseData('/data.csv?t=' + Date.now()); // Cache busting
-          source = 'csv';
-        } catch (csvError) {
-          console.log('CSV not found, loading from JSON...');
+          const excelResponse = await fetch('/data.xlsx?t=' + Date.now()); // Cache busting
+          if (excelResponse.ok) {
+            const buffer = await excelResponse.arrayBuffer();
+            data = await parseExcelBuffer(buffer);
+            source = 'excel';
+          } else {
+            throw new Error('Excel file not found');
+          }
+        } catch (excelError) {
+          console.log('Excel file not found, loading from JSON...');
           // Fall back to products.json
           const response = await fetch('/products.json?t=' + Date.now());
           if (!response.ok) throw new Error('Failed to load products');
@@ -118,7 +124,7 @@ export default function App() {
             {lastUpdate && (
               <div className="data-info">
                 <small>
-                  Source: <span className="source-badge">{dataSource === 'csv' ? '📄 CSV Auto' : '📋 JSON'}</span>
+                  Source: <span className="source-badge">{dataSource === 'excel' ? '📊 Excel Auto' : '📋 JSON'}</span>
                   <br />
                   Maj: <span className="update-time">{lastUpdate}</span>
                 </small>
