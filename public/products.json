@@ -21,9 +21,9 @@
     "dimension": "165/60R14",
     "marque": "GOODYEAR",
     "reference": "GD165/60R14",
-    "stock_total": 11,
+    "stock_total": 7,
     "stock_dibou": 3,
-    "stock_ariana": 4,
+    "stock_ariana": 0,
     "prix": 230
   },
   {
@@ -39,9 +39,9 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 9,
+    "stock_total": 5,
     "stock_dibou": 0,
-    "stock_ariana": 5,
+    "stock_ariana": 1,
     "prix": 200
   },
   {
@@ -75,16 +75,16 @@
     "dimension": "175/50R15",
     "marque": "HANKOOK",
     "reference": "HK175/50R15",
-    "stock_total": 14,
+    "stock_total": 12,
     "stock_dibou": 7,
-    "stock_ariana": 3,
+    "stock_ariana": 1,
     "prix": 270
   },
   {
     "dimension": "175/55R15",
     "marque": "RADIAL",
     "reference": "RD175/55R15",
-    "stock_total": 5,
+    "stock_total": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 250
@@ -93,7 +93,7 @@
     "dimension": "175/60R15",
     "marque": "GOODYEAR",
     "reference": "GD175/60R15",
-    "stock_total": 26,
+    "stock_total": 25,
     "stock_dibou": 18,
     "stock_ariana": 4,
     "prix": 350
@@ -104,7 +104,7 @@
     "reference": "RD175/60R15",
     "stock_total": 3,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 0,
     "prix": 230
   },
   {
@@ -147,7 +147,7 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 73,
+    "stock_total": 70,
     "stock_dibou": 60,
     "stock_ariana": 5,
     "prix": 190
@@ -156,7 +156,7 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 100,
+    "stock_total": 96,
     "stock_dibou": 0,
     "stock_ariana": 12,
     "prix": 180
@@ -178,6 +178,15 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 200
+  },
+  {
+    "dimension": "175/70R14",
+    "marque": "MATADOR",
+    "reference": "MT175/70R14",
+    "stock_total": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
   },
   {
     "dimension": "175/70R14",
@@ -207,15 +216,6 @@
     "prix": 340
   },
   {
-    "dimension": "185/55R15",
-    "marque": "RADIAL",
-    "reference": "RD185/55R15",
-    "stock_total": 2,
-    "stock_dibou": 0,
-    "stock_ariana": 2,
-    "prix": 270
-  },
-  {
     "dimension": "185/55R16",
     "marque": "GOODYEAR",
     "reference": "GD185/55R16",
@@ -241,6 +241,15 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 230
+  },
+  {
+    "dimension": "185/60R15",
+    "marque": "MATADOR",
+    "reference": "MT185/60R15",
+    "stock_total": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 280
   },
   {
     "dimension": "185/60R15",
@@ -291,7 +300,7 @@
     "dimension": "185/65R15",
     "marque": "DOUBLESTAR",
     "reference": "DS185/65R15",
-    "stock_total": 9,
+    "stock_total": 7,
     "stock_dibou": 5,
     "stock_ariana": 0,
     "prix": 210
@@ -318,9 +327,9 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 71,
+    "stock_total": 67,
     "stock_dibou": 49,
-    "stock_ariana": 8,
+    "stock_ariana": 4,
     "prix": 260
   },
   {
@@ -363,9 +372,9 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 98,
+    "stock_total": 94,
     "stock_dibou": 0,
-    "stock_ariana": 12,
+    "stock_ariana": 8,
     "prix": 220
   },
   {
@@ -444,7 +453,7 @@
     "dimension": "195/55R16",
     "marque": "HANKOOK",
     "reference": "HK195/55R16",
-    "stock_total": 18,
+    "stock_total": 16,
     "stock_dibou": 13,
     "stock_ariana": 3,
     "prix": 290
@@ -534,9 +543,9 @@
     "dimension": "195/65R15",
     "marque": "RADIAL",
     "reference": "RD195/65R15",
-    "stock_total": 16,
+    "stock_total": 15,
     "stock_dibou": 1,
-    "stock_ariana": 10,
+    "stock_ariana": 9,
     "prix": 230
   },
   {
@@ -1020,7 +1029,7 @@
     "dimension": "215/65R16",
     "marque": "HANKOOK",
     "reference": "HK215/65R16",
-    "stock_total": 7,
+    "stock_total": 6,
     "stock_dibou": 0,
     "stock_ariana": 3,
     "prix": 330
@@ -1137,8 +1146,8 @@
     "dimension": "225/45R18",
     "marque": "DUNLOP",
     "reference": "DL225/45R18",
-    "stock_total": 7,
-    "stock_dibou": 3,
+    "stock_total": 3,
+    "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 500
   },
@@ -1188,15 +1197,6 @@
     "prix": 780
   },
   {
-    "dimension": "225/45R19",
-    "marque": "LASSA",
-    "reference": "LS225/45R19",
-    "stock_total": 1,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 520
-  },
-  {
     "dimension": "225/50R17",
     "marque": "GOODYEAR",
     "reference": "GD225/50R17",
@@ -1209,7 +1209,7 @@
     "dimension": "225/50R17",
     "marque": "HANKOOK",
     "reference": "HK225/50R17",
-    "stock_total": 14,
+    "stock_total": 13,
     "stock_dibou": 8,
     "stock_ariana": 2,
     "prix": 400
@@ -1731,8 +1731,8 @@
     "dimension": "275/50R21",
     "marque": "GOODYEAR",
     "reference": "GD275/50R21",
-    "stock_total": 4,
-    "stock_dibou": 0,
+    "stock_total": 2,
+    "stock_dibou": 2,
     "stock_ariana": 0,
     "prix": 1
   },
