@@ -1,0 +1,179 @@
+.table-wrapper {
+  background: white;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.products-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: auto;
+}
+
+.products-table thead {
+  background: linear-gradient(90deg, #f3f4f6 0%, #f9fafb 100%);
+  border-bottom: 2px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.products-table th {
+  padding: 1rem;
+  text-align: left;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.products-table tbody tr {
+  border-bottom: 1px solid var(--border-color);
+  transition: background-color 0.2s ease;
+}
+
+.products-table tbody tr:hover {
+  background-color: #f9fafb;
+}
+
+.products-table td {
+  padding: 1rem;
+  font-size: 0.95rem;
+  color: var(--text-dark);
+}
+
+.row-out-of-stock td {
+  background-color: rgba(239, 68, 68, 0.05);
+}
+
+.row-low-stock td {
+  background-color: rgba(249, 115, 22, 0.05);
+}
+
+.row-high-stock td {
+  background-color: rgba(16, 185, 129, 0.05);
+}
+
+.dimension-cell {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.reference-cell {
+  font-family: 'Courier New', monospace;
+  font-size: 0.85rem;
+  color: var(--secondary-color);
+  background-color: #f0f4f8;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+}
+
+.price-cell {
+  font-weight: 600;
+  color: var(--primary-color);
+  font-size: 1rem;
+}
+
+.stock-total {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.stock-value {
+  min-width: 40px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.badge.out-of-stock {
+  background-color: var(--danger-color);
+  color: white;
+}
+
+.badge.low-stock {
+  background-color: var(--warning-color);
+  color: white;
+}
+
+.stock-location {
+  text-align: center;
+  font-weight: 500;
+}
+
+@media (max-width: 1024px) {
+  .products-table th,
+  .products-table td {
+    padding: 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .products-table th {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .table-wrapper {
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+
+  .products-table {
+    table-layout: fixed;
+    min-width: 900px;
+  }
+
+  .products-table th,
+  .products-table td {
+    padding: 0.6rem 0.4rem;
+    font-size: 0.85rem;
+  }
+
+  .products-table th {
+    font-size: 0.75rem;
+    text-transform: capitalize;
+  }
+
+  .dimension-cell {
+    min-width: 100px;
+  }
+
+  .reference-cell {
+    font-size: 0.75rem;
+    padding: 0.3rem 0.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .table-wrapper {
+    border-radius: 0;
+    margin: 0 -0.5rem;
+  }
+
+  .products-table {
+    min-width: 800px;
+  }
+
+  .products-table th,
+  .products-table td {
+    padding: 0.5rem 0.3rem;
+    font-size: 0.8rem;
+  }
+
+  .products-table th {
+    font-size: 0.7rem;
+  }
+}

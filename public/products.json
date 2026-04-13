@@ -1,0 +1,1962 @@
+[
+  {
+    "dimension": "155/65R14",
+    "marque": "SEMPERIT",
+    "reference": "SP155/65R14",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 240
+  },
+  {
+    "dimension": "155/70R13",
+    "marque": "RADIAL",
+    "reference": "RD155/70R13",
+    "stock_total": 13,
+    "stock_aouina": 7,
+    "stock_dibou": 0,
+    "stock_ariana": 6,
+    "prix": 180
+  },
+  {
+    "dimension": "165/60R14",
+    "marque": "GOODYEAR",
+    "reference": "GD165/60R14",
+    "stock_total": 7,
+    "stock_aouina": 4,
+    "stock_dibou": 3,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "165/60R14",
+    "marque": "HANKOOK",
+    "reference": "HK165/60R14",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "165/65R14",
+    "marque": "SEMPERIT",
+    "reference": "SP165/65R14",
+    "stock_total": 5,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 200
+  },
+  {
+    "dimension": "165/65R14",
+    "marque": "WESTLAKE",
+    "reference": "WL165/65R14",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 180
+  },
+  {
+    "dimension": "165/70R13",
+    "marque": "RADIAL",
+    "reference": "RD165/70R13",
+    "stock_total": 5,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 180
+  },
+  {
+    "dimension": "165/70R14",
+    "marque": "SEMPERIT",
+    "reference": "SP165/70R14",
+    "stock_total": 10,
+    "stock_aouina": 4,
+    "stock_dibou": 2,
+    "stock_ariana": 4,
+    "prix": 240
+  },
+  {
+    "dimension": "175/50R15",
+    "marque": "HANKOOK",
+    "reference": "HK175/50R15",
+    "stock_total": 12,
+    "stock_aouina": 4,
+    "stock_dibou": 7,
+    "stock_ariana": 1,
+    "prix": 270
+  },
+  {
+    "dimension": "175/55R15",
+    "marque": "RADIAL",
+    "reference": "RD175/55R15",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 250
+  },
+  {
+    "dimension": "175/60R15",
+    "marque": "GOODYEAR",
+    "reference": "GD175/60R15",
+    "stock_total": 25,
+    "stock_aouina": 3,
+    "stock_dibou": 18,
+    "stock_ariana": 4,
+    "prix": 350
+  },
+  {
+    "dimension": "175/60R15",
+    "marque": "RADIAL",
+    "reference": "RD175/60R15",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "175/65R14",
+    "marque": "AMINE",
+    "reference": "AM175/65R14",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 170
+  },
+  {
+    "dimension": "175/65R14",
+    "marque": "GOODYEAR",
+    "reference": "GD175/65R14",
+    "stock_total": 103,
+    "stock_aouina": 6,
+    "stock_dibou": 92,
+    "stock_ariana": 5,
+    "prix": 220
+  },
+  {
+    "dimension": "175/65R14",
+    "marque": "NEXEN",
+    "reference": "NX175/65R14",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 200
+  },
+  {
+    "dimension": "175/65R14",
+    "marque": "RADIAL",
+    "reference": "RD175/65R14",
+    "stock_total": 10,
+    "stock_aouina": 4,
+    "stock_dibou": 1,
+    "stock_ariana": 5,
+    "prix": 180
+  },
+  {
+    "dimension": "175/65R14",
+    "marque": "SEMPERIT",
+    "reference": "SP175/65R14",
+    "stock_total": 70,
+    "stock_aouina": 5,
+    "stock_dibou": 60,
+    "stock_ariana": 5,
+    "prix": 190
+  },
+  {
+    "dimension": "175/65R14",
+    "marque": "WESTLAKE",
+    "reference": "WL175/65R14",
+    "stock_total": 96,
+    "stock_aouina": 84,
+    "stock_dibou": 0,
+    "stock_ariana": 12,
+    "prix": 180
+  },
+  {
+    "dimension": "175/65R15",
+    "marque": "DOUBLESTAR",
+    "reference": "DS175/65R15",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 200
+  },
+  {
+    "dimension": "175/70R13",
+    "marque": "WESTLAKE",
+    "reference": "WL175/70R13",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 200
+  },
+  {
+    "dimension": "175/70R14",
+    "marque": "MATADOR",
+    "reference": "MT175/70R14",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "175/70R14",
+    "marque": "WESTLAKE",
+    "reference": "WL175/70R14",
+    "stock_total": 51,
+    "stock_aouina": 40,
+    "stock_dibou": 0,
+    "stock_ariana": 11,
+    "prix": 200
+  },
+  {
+    "dimension": "185/55R15",
+    "marque": "BRIDGESTONE",
+    "reference": "BR185/55R15",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 370
+  },
+  {
+    "dimension": "185/55R15",
+    "marque": "GOODYEAR",
+    "reference": "GD185/55R15",
+    "stock_total": 39,
+    "stock_aouina": 4,
+    "stock_dibou": 31,
+    "stock_ariana": 4,
+    "prix": 340
+  },
+  {
+    "dimension": "185/55R16",
+    "marque": "GOODYEAR",
+    "reference": "GD185/55R16",
+    "stock_total": 3,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 420
+  },
+  {
+    "dimension": "185/60R14",
+    "marque": "GOODYEAR",
+    "reference": "GD185/60R14",
+    "stock_total": 20,
+    "stock_aouina": 4,
+    "stock_dibou": 12,
+    "stock_ariana": 4,
+    "prix": 230
+  },
+  {
+    "dimension": "185/60R14",
+    "marque": "NEXEN",
+    "reference": "NX185/60R14",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "185/60R15",
+    "marque": "MATADOR",
+    "reference": "MT185/60R15",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 280
+  },
+  {
+    "dimension": "185/60R15",
+    "marque": "RADIAL",
+    "reference": "RD185/60R15",
+    "stock_total": 7,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 230
+  },
+  {
+    "dimension": "185/60R15",
+    "marque": "WESTLAKE",
+    "reference": "WL185/60R15",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "185/60R16",
+    "marque": "GOODYEAR",
+    "reference": "GD185/60R16",
+    "stock_total": 7,
+    "stock_aouina": 4,
+    "stock_dibou": 2,
+    "stock_ariana": 1,
+    "prix": 420
+  },
+  {
+    "dimension": "185/65R14",
+    "marque": "RADIAL",
+    "reference": "RD185/65R14",
+    "stock_total": 5,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 3,
+    "prix": 200
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "CONTINENTAL",
+    "reference": "CT185/65R15",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "DOUBLESTAR",
+    "reference": "DS185/65R15",
+    "stock_total": 7,
+    "stock_aouina": 2,
+    "stock_dibou": 5,
+    "stock_ariana": 0,
+    "prix": 210
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "FULDA",
+    "reference": "FL185/65R15",
+    "stock_total": 136,
+    "stock_aouina": 16,
+    "stock_dibou": 109,
+    "stock_ariana": 11,
+    "prix": 245
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "GOODRIDE",
+    "reference": "GR185/65R15",
+    "stock_total": 11,
+    "stock_aouina": 4,
+    "stock_dibou": 3,
+    "stock_ariana": 4,
+    "prix": 230
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "GOODYEAR",
+    "reference": "GD185/65R15",
+    "stock_total": 67,
+    "stock_aouina": 14,
+    "stock_dibou": 49,
+    "stock_ariana": 4,
+    "prix": 260
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "HANKOOK",
+    "reference": "HK185/65R15",
+    "stock_total": 5,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 250
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "LUFEN",
+    "reference": "LF185/65R15",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 250
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "RADIAL",
+    "reference": "RD185/65R15",
+    "stock_total": 3,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 3,
+    "prix": 200
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "SEMPERIT",
+    "reference": "SP185/65R15",
+    "stock_total": 30,
+    "stock_aouina": 5,
+    "stock_dibou": 21,
+    "stock_ariana": 4,
+    "prix": 250
+  },
+  {
+    "dimension": "185/65R15",
+    "marque": "WESTLAKE",
+    "reference": "WL185/65R15",
+    "stock_total": 94,
+    "stock_aouina": 86,
+    "stock_dibou": 0,
+    "stock_ariana": 8,
+    "prix": 220
+  },
+  {
+    "dimension": "185/70R14",
+    "marque": "RADIAL",
+    "reference": "RD185/70R14",
+    "stock_total": 2,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 230
+  },
+  {
+    "dimension": "185/70R14",
+    "marque": "SEMPERIT",
+    "reference": "SP185/70R14",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 280
+  },
+  {
+    "dimension": "185/70R14",
+    "marque": "WESTLAKE",
+    "reference": "WL185/70R14",
+    "stock_total": 8,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 220
+  },
+  {
+    "dimension": "195/50R15",
+    "marque": "GOODYEAR",
+    "reference": "GD195/50R15",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 290
+  },
+  {
+    "dimension": "195/50R15",
+    "marque": "SEMPERIT",
+    "reference": "SP195/50R15",
+    "stock_total": 23,
+    "stock_aouina": 4,
+    "stock_dibou": 15,
+    "stock_ariana": 4,
+    "prix": 260
+  },
+  {
+    "dimension": "195/50R15",
+    "marque": "WESTLAKE",
+    "reference": "WL195/50R15",
+    "stock_total": 12,
+    "stock_aouina": 8,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 225
+  },
+  {
+    "dimension": "195/50R16",
+    "marque": "GOODYEAR",
+    "reference": "GD195/50R16",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 330
+  },
+  {
+    "dimension": "195/55R16",
+    "marque": "GOODYEAR",
+    "reference": "GD195/55R16",
+    "stock_total": 21,
+    "stock_aouina": 4,
+    "stock_dibou": 13,
+    "stock_ariana": 4,
+    "prix": 350
+  },
+  {
+    "dimension": "195/55R16",
+    "marque": "HANKOOK",
+    "reference": "HK195/55R16",
+    "stock_total": 16,
+    "stock_aouina": 0,
+    "stock_dibou": 13,
+    "stock_ariana": 3,
+    "prix": 290
+  },
+  {
+    "dimension": "195/55R16",
+    "marque": "LASSA",
+    "reference": "LS195/55R16",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 280
+  },
+  {
+    "dimension": "195/55R16",
+    "marque": "NEXEN",
+    "reference": "NX195/55R16",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 300
+  },
+  {
+    "dimension": "195/55R16",
+    "marque": "RADIAL",
+    "reference": "RD195/55R16",
+    "stock_total": 9,
+    "stock_aouina": 5,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 250
+  },
+  {
+    "dimension": "195/60R16",
+    "marque": "GOODYEAR",
+    "reference": "GD195/60R16",
+    "stock_total": 34,
+    "stock_aouina": 4,
+    "stock_dibou": 27,
+    "stock_ariana": 3,
+    "prix": 355
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "DOUBLESTAR",
+    "reference": "DS195/65R15",
+    "stock_total": 8,
+    "stock_aouina": 2,
+    "stock_dibou": 6,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "GOODRIDE",
+    "reference": "GR195/65R15",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "HANKOOK",
+    "reference": "HK195/65R15",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 260
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "LASSA",
+    "reference": "LS195/65R15",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 250
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "NEXEN",
+    "reference": "NX195/65R15",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "RADIAL",
+    "reference": "RD195/65R15",
+    "stock_total": 15,
+    "stock_aouina": 5,
+    "stock_dibou": 1,
+    "stock_ariana": 9,
+    "prix": 230
+  },
+  {
+    "dimension": "195/65R15",
+    "marque": "SEMPERIT",
+    "reference": "SP195/65R15",
+    "stock_total": 96,
+    "stock_aouina": 8,
+    "stock_dibou": 75,
+    "stock_ariana": 13,
+    "prix": 250
+  },
+  {
+    "dimension": "195/70R15C",
+    "marque": "DAYTON",
+    "reference": "DT195/70R15C",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 280
+  },
+  {
+    "dimension": "195/75R16C",
+    "marque": "GOODRIDE",
+    "reference": "GR195/75R16C",
+    "stock_total": 12,
+    "stock_aouina": 3,
+    "stock_dibou": 7,
+    "stock_ariana": 2,
+    "prix": 350
+  },
+  {
+    "dimension": "195R15C",
+    "marque": "RADIAL",
+    "reference": "RD195R15C",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 250
+  },
+  {
+    "dimension": "205/45R17",
+    "marque": "CONTINENTAL",
+    "reference": "CT205/45R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 550
+  },
+  {
+    "dimension": "205/45R17",
+    "marque": "FULDA",
+    "reference": "FL205/45R17",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 380
+  },
+  {
+    "dimension": "205/45R17",
+    "marque": "GOODRIDE",
+    "reference": "GR205/45R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 300
+  },
+  {
+    "dimension": "205/45R17",
+    "marque": "GOODYEAR",
+    "reference": "GD205/45R17",
+    "stock_total": 16,
+    "stock_aouina": 0,
+    "stock_dibou": 8,
+    "stock_ariana": 8,
+    "prix": 450
+  },
+  {
+    "dimension": "205/45R17",
+    "marque": "NEXEN",
+    "reference": "NX205/45R17",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 380
+  },
+  {
+    "dimension": "205/45R17",
+    "marque": "RADIAL",
+    "reference": "RD205/45R17",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 300
+  },
+  {
+    "dimension": "205/50R17",
+    "marque": "CONTINENTAL",
+    "reference": "CT205/50R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "AMINE",
+    "reference": "AM205/55R16",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 240
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "DOUBLESTAR",
+    "reference": "DS205/55R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 230
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "FULDA",
+    "reference": "FL205/55R16",
+    "stock_total": 45,
+    "stock_aouina": 10,
+    "stock_dibou": 27,
+    "stock_ariana": 8,
+    "prix": 250
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "GOODRIDE",
+    "reference": "GR205/55R16",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 250
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "GOODYEAR",
+    "reference": "GD205/55R16",
+    "stock_total": 6,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 280
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "HANKOOK",
+    "reference": "HK205/55R16",
+    "stock_total": 17,
+    "stock_aouina": 4,
+    "stock_dibou": 9,
+    "stock_ariana": 4,
+    "prix": 260
+  },
+  {
+    "dimension": "205/55R16",
+    "marque": "RADIAL",
+    "reference": "RD205/55R16",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 230
+  },
+  {
+    "dimension": "205/55R16RF",
+    "marque": "GOODYEAR",
+    "reference": "GD205/55R16RF",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 480
+  },
+  {
+    "dimension": "205/55R17",
+    "marque": "GOODYEAR",
+    "reference": "GD205/55R17",
+    "stock_total": 17,
+    "stock_aouina": 4,
+    "stock_dibou": 9,
+    "stock_ariana": 4,
+    "prix": 450
+  },
+  {
+    "dimension": "205/55R17",
+    "marque": "NEXEN",
+    "reference": "NX205/55R17",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "205/60R16",
+    "marque": "DUNLOP",
+    "reference": "DL205/60R16",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 330
+  },
+  {
+    "dimension": "205/60R16",
+    "marque": "GOODYEAR",
+    "reference": "GD205/60R16",
+    "stock_total": 19,
+    "stock_aouina": 4,
+    "stock_dibou": 15,
+    "stock_ariana": 0,
+    "prix": 380
+  },
+  {
+    "dimension": "205/60R16",
+    "marque": "HANKOOK",
+    "reference": "HK205/60R16",
+    "stock_total": 11,
+    "stock_aouina": 6,
+    "stock_dibou": 1,
+    "stock_ariana": 4,
+    "prix": 300
+  },
+  {
+    "dimension": "205/60R16",
+    "marque": "LUFEN",
+    "reference": "LF205/60R16",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 300
+  },
+  {
+    "dimension": "205/65R15",
+    "marque": "HANKOOK",
+    "reference": "HK205/65R15",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 270
+  },
+  {
+    "dimension": "205/65R16",
+    "marque": "BRIDGESTONE",
+    "reference": "BR205/65R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 420
+  },
+  {
+    "dimension": "205/65R16",
+    "marque": "HANKOOK",
+    "reference": "HK205/65R16",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 380
+  },
+  {
+    "dimension": "215/40R18",
+    "marque": "GOODYEAR",
+    "reference": "GD215/40R18",
+    "stock_total": 7,
+    "stock_aouina": 4,
+    "stock_dibou": 2,
+    "stock_ariana": 1,
+    "prix": 600
+  },
+  {
+    "dimension": "215/40R18",
+    "marque": "HANKOOK",
+    "reference": "HK215/40R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 490
+  },
+  {
+    "dimension": "215/45R16",
+    "marque": "GOODYEAR",
+    "reference": "GD215/45R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "215/45R17",
+    "marque": "GOODYEAR",
+    "reference": "GD215/45R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "215/45R17",
+    "marque": "HANKOOK",
+    "reference": "HK215/45R17",
+    "stock_total": 21,
+    "stock_aouina": 4,
+    "stock_dibou": 15,
+    "stock_ariana": 2,
+    "prix": 400
+  },
+  {
+    "dimension": "215/45R17",
+    "marque": "IRIS",
+    "reference": "IR215/45R17",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 300
+  },
+  {
+    "dimension": "215/45R17",
+    "marque": "LUFEN",
+    "reference": "LF215/45R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
+  },
+  {
+    "dimension": "215/45R17",
+    "marque": "NEXEN",
+    "reference": "NX215/45R17",
+    "stock_total": 9,
+    "stock_aouina": 4,
+    "stock_dibou": 1,
+    "stock_ariana": 4,
+    "prix": 380
+  },
+  {
+    "dimension": "215/45R18",
+    "marque": "GOODYEAR",
+    "reference": "GD215/45R18",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 550
+  },
+  {
+    "dimension": "215/50R17",
+    "marque": "BRIDGESTONE",
+    "reference": "BR215/50R17",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "215/50R17",
+    "marque": "GOODYEAR",
+    "reference": "GD215/50R17",
+    "stock_total": 5,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 470
+  },
+  {
+    "dimension": "215/50R17",
+    "marque": "HANKOOK",
+    "reference": "HK215/50R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "215/50R17",
+    "marque": "LUFEN",
+    "reference": "LF215/50R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 420
+  },
+  {
+    "dimension": "215/50R18",
+    "marque": "GOODYEAR",
+    "reference": "GD215/50R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 600
+  },
+  {
+    "dimension": "215/55R16",
+    "marque": "GOODYEAR",
+    "reference": "GD215/55R16",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 440
+  },
+  {
+    "dimension": "215/55R16",
+    "marque": "LUFEN",
+    "reference": "LF215/55R16",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
+  },
+  {
+    "dimension": "215/55R17",
+    "marque": "BRIDGESTONE",
+    "reference": "BR215/55R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 480
+  },
+  {
+    "dimension": "215/55R17",
+    "marque": "HANKOOK",
+    "reference": "HK215/55R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 420
+  },
+  {
+    "dimension": "215/55R18",
+    "marque": "GOODYEAR",
+    "reference": "GD215/55R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 580
+  },
+  {
+    "dimension": "215/60R16",
+    "marque": "BRIDGESTONE",
+    "reference": "BR215/60R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
+  },
+  {
+    "dimension": "215/60R16",
+    "marque": "DUNLOP",
+    "reference": "DL215/60R16",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 350
+  },
+  {
+    "dimension": "215/60R16",
+    "marque": "HANKOOK",
+    "reference": "HK215/60R16",
+    "stock_total": 8,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 330
+  },
+  {
+    "dimension": "215/60R16",
+    "marque": "NEXEN",
+    "reference": "NX215/60R16",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 330
+  },
+  {
+    "dimension": "215/60R17",
+    "marque": "RADIAL",
+    "reference": "RD215/60R17",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 300
+  },
+  {
+    "dimension": "215/65R16",
+    "marque": "GOODYEAR",
+    "reference": "GD215/65R16",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 380
+  },
+  {
+    "dimension": "215/65R16",
+    "marque": "HANKOOK",
+    "reference": "HK215/65R16",
+    "stock_total": 6,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 3,
+    "prix": 330
+  },
+  {
+    "dimension": "215/65R17",
+    "marque": "MICHELIN",
+    "reference": "MC215/65R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 600
+  },
+  {
+    "dimension": "225/40R18",
+    "marque": "BARUM",
+    "reference": "BM225/40R18",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 420
+  },
+  {
+    "dimension": "225/40R18",
+    "marque": "GOODYEAR",
+    "reference": "GD225/40R18",
+    "stock_total": 22,
+    "stock_aouina": 4,
+    "stock_dibou": 15,
+    "stock_ariana": 3,
+    "prix": 480
+  },
+  {
+    "dimension": "225/40R18",
+    "marque": "HANKOOK",
+    "reference": "HK225/40R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "225/40R18",
+    "marque": "LASSA",
+    "reference": "LS225/40R18",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 330
+  },
+  {
+    "dimension": "225/40R18",
+    "marque": "NEXEN",
+    "reference": "NX225/40R18",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "225/40R18",
+    "marque": "SEMPERIT",
+    "reference": "SP225/40R18",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "225/40R18RF",
+    "marque": "GOODYEAR",
+    "reference": "GD225/40R18RF",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 590
+  },
+  {
+    "dimension": "225/45R17",
+    "marque": "CONTINENTAL",
+    "reference": "CT225/45R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "225/45R17",
+    "marque": "FULDA",
+    "reference": "FL225/45R17",
+    "stock_total": 23,
+    "stock_aouina": 6,
+    "stock_dibou": 13,
+    "stock_ariana": 4,
+    "prix": 350
+  },
+  {
+    "dimension": "225/45R17",
+    "marque": "GOODYEAR",
+    "reference": "GD225/45R17",
+    "stock_total": 29,
+    "stock_aouina": 6,
+    "stock_dibou": 19,
+    "stock_ariana": 4,
+    "prix": 380
+  },
+  {
+    "dimension": "225/45R17",
+    "marque": "HANKOOK",
+    "reference": "HK225/45R17",
+    "stock_total": 5,
+    "stock_aouina": 5,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
+  },
+  {
+    "dimension": "225/45R18",
+    "marque": "DUNLOP",
+    "reference": "DL225/45R18",
+    "stock_total": 3,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 500
+  },
+  {
+    "dimension": "225/45R18",
+    "marque": "GOODYEAR",
+    "reference": "GD225/45R18",
+    "stock_total": 10,
+    "stock_aouina": 4,
+    "stock_dibou": 6,
+    "stock_ariana": 0,
+    "prix": 550
+  },
+  {
+    "dimension": "225/45R18",
+    "marque": "HANKOOK",
+    "reference": "HK225/45R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "225/45R18",
+    "marque": "LUFEN",
+    "reference": "LF225/45R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 420
+  },
+  {
+    "dimension": "225/45R18RF",
+    "marque": "GOODYEAR",
+    "reference": "GD225/45R18RF",
+    "stock_total": 6,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 720
+  },
+  {
+    "dimension": "225/45R19",
+    "marque": "CONTINENTAL",
+    "reference": "CT225/45R19",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 780
+  },
+  {
+    "dimension": "225/50R17",
+    "marque": "GOODYEAR",
+    "reference": "GD225/50R17",
+    "stock_total": 8,
+    "stock_aouina": 4,
+    "stock_dibou": 2,
+    "stock_ariana": 2,
+    "prix": 500
+  },
+  {
+    "dimension": "225/50R17",
+    "marque": "HANKOOK",
+    "reference": "HK225/50R17",
+    "stock_total": 13,
+    "stock_aouina": 3,
+    "stock_dibou": 8,
+    "stock_ariana": 2,
+    "prix": 400
+  },
+  {
+    "dimension": "225/55R16",
+    "marque": "DUNLOP",
+    "reference": "DL225/55R16",
+    "stock_total": 5,
+    "stock_aouina": 5,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "225/55R16",
+    "marque": "GOODYEAR",
+    "reference": "GD225/55R16",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 420
+  },
+  {
+    "dimension": "225/55R17",
+    "marque": "HANKOOK",
+    "reference": "HK225/55R17",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 430
+  },
+  {
+    "dimension": "225/55R17RF",
+    "marque": "GOODYEAR",
+    "reference": "GD225/55R17RF",
+    "stock_total": 5,
+    "stock_aouina": 4,
+    "stock_dibou": 1,
+    "stock_ariana": 0,
+    "prix": 700
+  },
+  {
+    "dimension": "225/55R18",
+    "marque": "HANKOOK",
+    "reference": "HK225/55R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
+    "dimension": "225/55R18",
+    "marque": "KUMHO",
+    "reference": "KM225/55R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "225/55R19",
+    "marque": "BRIDGESTONE",
+    "reference": "BR225/55R19",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "225/55R19",
+    "marque": "GOODYEAR",
+    "reference": "GD225/55R19",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "225/60R17",
+    "marque": "HANKOOK",
+    "reference": "HK225/60R17",
+    "stock_total": 6,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 400
+  },
+  {
+    "dimension": "225/60R18",
+    "marque": "GOODYEAR",
+    "reference": "GD225/60R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 700
+  },
+  {
+    "dimension": "225/65R17",
+    "marque": "RADIAL",
+    "reference": "RD225/65R17",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "225/75R15C",
+    "marque": "RADIAL",
+    "reference": "RD225/75R15C",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 330
+  },
+  {
+    "dimension": "235/35R19",
+    "marque": "RADIAL",
+    "reference": "RD235/35R19",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 4,
+    "stock_ariana": 0,
+    "prix": 600
+  },
+  {
+    "dimension": "235/40R19",
+    "marque": "GOODYEAR",
+    "reference": "GD235/40R19",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 850
+  },
+  {
+    "dimension": "235/45R18",
+    "marque": "GOODYEAR",
+    "reference": "GD235/45R18",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 600
+  },
+  {
+    "dimension": "235/50R18",
+    "marque": "HANKOOK",
+    "reference": "HK235/50R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
+    "dimension": "235/50R19",
+    "marque": "GOODYEAR",
+    "reference": "GD235/50R19",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 800
+  },
+  {
+    "dimension": "235/50R20",
+    "marque": "GOODYEAR",
+    "reference": "GD235/50R20",
+    "stock_total": 9,
+    "stock_aouina": 0,
+    "stock_dibou": 9,
+    "stock_ariana": 0,
+    "prix": 1180
+  },
+  {
+    "dimension": "235/55R17",
+    "marque": "BRIDGESTONE",
+    "reference": "BR235/55R17",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "235/55R18",
+    "marque": "HANKOOK",
+    "reference": "HK235/55R18",
+    "stock_total": 7,
+    "stock_aouina": 7,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 480
+  },
+  {
+    "dimension": "235/55R19",
+    "marque": "GOODYEAR",
+    "reference": "GD235/55R19",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "235/55R19",
+    "marque": "HANKOOK",
+    "reference": "HK235/55R19",
+    "stock_total": 5,
+    "stock_aouina": 5,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 630
+  },
+  {
+    "dimension": "235/55R19",
+    "marque": "LUFEN",
+    "reference": "LF235/55R19",
+    "stock_total": 5,
+    "stock_aouina": 5,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
+    "dimension": "235/55R19",
+    "marque": "NEXEN",
+    "reference": "NX235/55R19",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 600
+  },
+  {
+    "dimension": "235/55R19",
+    "marque": "RADIAL",
+    "reference": "RD235/55R19",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
+    "dimension": "235/60R16",
+    "marque": "HANKOOK",
+    "reference": "HK235/60R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 430
+  },
+  {
+    "dimension": "235/60R17",
+    "marque": "HANKOOK",
+    "reference": "HK235/60R17",
+    "stock_total": 3,
+    "stock_aouina": 0,
+    "stock_dibou": 3,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
+    "dimension": "235/60R18",
+    "marque": "GOODYEAR",
+    "reference": "GD235/60R18",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 680
+  },
+  {
+    "dimension": "235/60R18",
+    "marque": "HANKOOK",
+    "reference": "HK235/60R18",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 480
+  },
+  {
+    "dimension": "245/40R17",
+    "marque": "GOODYEAR",
+    "reference": "GD245/40R17",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "245/40R18",
+    "marque": "GOODYEAR",
+    "reference": "GD245/40R18",
+    "stock_total": 5,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 620
+  },
+  {
+    "dimension": "245/40R19",
+    "marque": "HANKOOK",
+    "reference": "HK245/40R19",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "245/40R20",
+    "marque": "CONTINENTAL",
+    "reference": "CT245/40R20",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 1050
+  },
+  {
+    "dimension": "245/45R17",
+    "marque": "HANKOOK",
+    "reference": "HK245/45R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 430
+  },
+  {
+    "dimension": "245/45R18",
+    "marque": "CONTINENTAL",
+    "reference": "CT245/45R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 650
+  },
+  {
+    "dimension": "245/45R18",
+    "marque": "GOODYEAR",
+    "reference": "GD245/45R18",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 600
+  },
+  {
+    "dimension": "245/45R18",
+    "marque": "HANKOOK",
+    "reference": "HK245/45R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
+    "dimension": "245/45R18RF",
+    "marque": "GOODYEAR",
+    "reference": "GD245/45R18RF",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 720
+  },
+  {
+    "dimension": "245/45R19",
+    "marque": "BRIDGESTONE",
+    "reference": "BR245/45R19",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 790
+  },
+  {
+    "dimension": "245/45R19",
+    "marque": "RADIAL",
+    "reference": "RD245/45R19",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 450
+  },
+  {
+    "dimension": "245/45R20",
+    "marque": "HANKOOK",
+    "reference": "HK245/45R20",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "245/65R17",
+    "marque": "NEXEN",
+    "reference": "NX245/65R17",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 600
+  },
+  {
+    "dimension": "245/70R16",
+    "marque": "LASSA",
+    "reference": "LS245/70R16",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 500
+  },
+  {
+    "dimension": "255/35R19",
+    "marque": "DUNLOP",
+    "reference": "DL255/35R19",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 700
+  },
+  {
+    "dimension": "255/35R19RF",
+    "marque": "CONTINENTAL",
+    "reference": "CT255/35R19RF",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 950
+  },
+  {
+    "dimension": "255/35R19RF",
+    "marque": "GOODYEAR",
+    "reference": "GD255/35R19RF",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 950
+  },
+  {
+    "dimension": "255/50R19",
+    "marque": "CONTINENTAL",
+    "reference": "CT255/50R19",
+    "stock_total": 6,
+    "stock_aouina": 0,
+    "stock_dibou": 6,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "255/50R20",
+    "marque": "CONTINENTAL",
+    "reference": "CT255/50R20",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 900
+  },
+  {
+    "dimension": "255/55R19",
+    "marque": "CONTINENTAL",
+    "reference": "CT255/55R19",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 1,
+    "stock_ariana": 0,
+    "prix": 750
+  },
+  {
+    "dimension": "255/55R19",
+    "marque": "DUNLOP",
+    "reference": "DL255/55R19",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 700
+  },
+  {
+    "dimension": "255/70R15",
+    "marque": "DUNLOP",
+    "reference": "DL255/70R15",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 550
+  },
+  {
+    "dimension": "255/70R16",
+    "marque": "RADIAL",
+    "reference": "RD255/70R16",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 500
+  },
+  {
+    "dimension": "265/35R18",
+    "marque": "GOODYEAR",
+    "reference": "GD265/35R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 700
+  },
+  {
+    "dimension": "265/50R20",
+    "marque": "GOODYEAR",
+    "reference": "GD265/50R20",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 4,
+    "stock_ariana": 0,
+    "prix": 1150
+  },
+  {
+    "dimension": "275/35R19RF",
+    "marque": "GOODYEAR",
+    "reference": "GD275/35R19RF",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 1
+  },
+  {
+    "dimension": "275/35R20",
+    "marque": "CONTINENTAL",
+    "reference": "CT275/35R20",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 980
+  },
+  {
+    "dimension": "275/40R20",
+    "marque": "HANKOOK",
+    "reference": "HK275/40R20",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 770
+  },
+  {
+    "dimension": "275/50R21",
+    "marque": "GOODYEAR",
+    "reference": "GD275/50R21",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 1
+  },
+  {
+    "dimension": "295/35R21",
+    "marque": "CONTINENTAL",
+    "reference": "CT295/35R21",
+    "stock_total": 2,
+    "stock_aouina": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 0,
+    "prix": 1150
+  },
+  {
+    "dimension": "295/35R21",
+    "marque": "GOODYEAR",
+    "reference": "GD295/35R21",
+    "stock_total": 3,
+    "stock_aouina": 0,
+    "stock_dibou": 3,
+    "stock_ariana": 0,
+    "prix": 980
+  },
+  {
+    "dimension": "500R12",
+    "marque": "RADIAL",
+    "reference": "RD500R12",
+    "stock_total": 3,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 300
+  }
+]
