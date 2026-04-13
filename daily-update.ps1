@@ -17,6 +17,31 @@ Write-Host "====================================================" -ForegroundCol
 Write-Host ""
 
 try {
+    # Step 0: Check and configure Git
+    Write-Host "[0/3] Checking Git configuration..." -ForegroundColor Yellow
+    
+    $gitName = & git config --global user.name 2>$null
+    if ([string]::IsNullOrEmpty($gitName)) {
+        Write-Host "Git user name not configured." -ForegroundColor Yellow
+        $gitName = Read-Host "Enter your name (or press Enter for default)"
+        if ([string]::IsNullOrEmpty($gitName)) {
+            $gitName = "Tire Inventory User"
+        }
+        & git config --global user.name $gitName
+        Write-Host "✓ Git name set to: $gitName" -ForegroundColor Green
+    }
+    
+    $gitEmail = & git config --global user.email 2>$null
+    if ([string]::IsNullOrEmpty($gitEmail)) {
+        Write-Host "Git email not configured." -ForegroundColor Yellow
+        $gitEmail = Read-Host "Enter your email (or press Enter for default)"
+        if ([string]::IsNullOrEmpty($gitEmail)) {
+            $gitEmail = "inventory@local"
+        }
+        & git config --global user.email $gitEmail
+        Write-Host "✓ Git email set to: $gitEmail" -ForegroundColor Green
+    }
+    
     # Step 1: Convert Excel to JSON
     Write-Host "[1/3] Converting Excel to JSON..." -ForegroundColor Yellow
     & node excel-converter.js public/data.xlsx public/products.json

@@ -30,6 +30,29 @@ if errorlevel 1 (
     exit /b 1
 )
 
+REM Configure git user if not already configured
+echo [0/3] Checking Git configuration...
+for /f "delims=" %%A in ('git config --global user.name 2^>nul') do set GITNAME=%%A
+if "!GITNAME!"=="" (
+    echo.
+    echo WARNING: Git user not configured!
+    echo Please enter your name (or press Enter for default):
+    set /p GITNAME="Your name: "
+    if "!GITNAME!"=="" set GITNAME=Tire Inventory User
+    git config --global user.name "!GITNAME!"
+    echo Git name set to: !GITNAME!
+)
+
+for /f "delims=" %%A in ('git config --global user.email 2^>nul') do set GITEMAIL=%%A
+if "!GITEMAIL!"=="" (
+    echo.
+    echo Please enter your email (or press Enter for default):
+    set /p GITEMAIL="Your email: "
+    if "!GITEMAIL!"=="" set GITEMAIL=inventory@local
+    git config --global user.email "!GITEMAIL!"
+    echo Git email set to: !GITEMAIL!
+)
+
 REM Convert Excel to JSON
 echo [1/3] Converting Excel to JSON...
 call node excel-converter.js public/data.xlsx public/products.json
