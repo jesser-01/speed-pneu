@@ -1,4 +1,6 @@
 @echo off
+setlocal enabledelayedexpansion
+
 REM Daily tire inventory update script
 REM Just double-click this file every day to update and sync
 
@@ -10,10 +12,27 @@ echo   DAILY TIRE INVENTORY UPDATE
 echo ====================================================
 echo.
 
+REM Check if node is installed
+where node >nul 2>nul
+if errorlevel 1 (
+    echo ERROR: Node.js is not installed or not in PATH
+    echo Please install Node.js from: https://nodejs.org/
+    pause
+    exit /b 1
+)
+
+REM Check if git is installed
+where git >nul 2>nul
+if errorlevel 1 (
+    echo ERROR: Git is not installed or not in PATH
+    echo Please install Git from: https://git-scm.com/download/win
+    pause
+    exit /b 1
+)
+
 REM Convert Excel to JSON
 echo [1/3] Converting Excel to JSON...
-node excel-converter.js public/data.xlsx public/products.json
-
+call node excel-converter.js public/data.xlsx public/products.json
 if errorlevel 1 (
     echo.
     echo ERROR: Conversion failed!
@@ -24,10 +43,11 @@ if errorlevel 1 (
 REM Commit changes
 echo.
 echo [2/3] Committing changes...
-git add public/data.xlsx public/products.json
-git commit -m "Daily update: %date%"
+call git add public/data.xlsx public/products.json
+call git commit -m "Daily update: %date%"
 
-if errorlevel 1 (
+REM Check for git errors (but allow if nothing to commit)
+if errorlevel 2 (
     echo ERROR: Commit failed!
     pause
     exit /b 1
@@ -36,17 +56,16 @@ if errorlevel 1 (
 REM Push to GitHub
 echo.
 echo [3/3] Pushing to GitHub...
-git push
-
+call git push
 if errorlevel 1 (
-    echo ERROR: Push failed!
+    echo ERROR: Push failed! Check your internet connection.
     pause
     exit /b 1
 )
 
 echo.
 echo ====================================================
-echo   ✓ SUCCESS! Data updated and synced to GitHub
+echo   SUCCESS! Data updated and synced to GitHub
 echo ====================================================
 echo.
 echo Your website will update within seconds.

@@ -16,26 +16,24 @@ Write-Host "   DAILY TIRE INVENTORY UPDATE" -ForegroundColor Cyan
 Write-Host "====================================================" -ForegroundColor Cyan
 Write-Host ""
 
-$ErrorActionPreference = "Stop"
-
 try {
     # Step 1: Convert Excel to JSON
     Write-Host "[1/3] Converting Excel to JSON..." -ForegroundColor Yellow
-    node excel-converter.js public/data.xlsx public/products.json
+    & node excel-converter.js public/data.xlsx public/products.json
     Write-Host "✓ Conversion successful" -ForegroundColor Green
     
     # Step 2: Commit changes
     Write-Host ""
     Write-Host "[2/3] Committing changes..." -ForegroundColor Yellow
     $date = Get-Date -Format "yyyy-MM-dd"
-    git add public/data.xlsx public/products.json
-    git commit -m "Daily update: $date"
+    & git add public/data.xlsx public/products.json
+    & git commit -m "Daily update: $date"
     Write-Host "✓ Commit successful" -ForegroundColor Green
     
     # Step 3: Push to GitHub
     Write-Host ""
     Write-Host "[3/3] Pushing to GitHub..." -ForegroundColor Yellow
-    git push
+    & git push
     Write-Host "✓ Push successful" -ForegroundColor Green
     
     Write-Host ""
@@ -44,6 +42,7 @@ try {
     Write-Host "====================================================" -ForegroundColor Green
     Write-Host ""
     Write-Host "Your website will update within seconds." -ForegroundColor Cyan
+    Write-Host ""
     
 } catch {
     Write-Host ""
