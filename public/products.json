@@ -213,8 +213,8 @@
     "dimension": "175/70R14",
     "marque": "WESTLAKE",
     "reference": "WL175/70R14",
-    "stock_total": 51,
-    "stock_aouina": 40,
+    "stock_total": 50,
+    "stock_aouina": 39,
     "stock_dibou": 0,
     "stock_ariana": 11,
     "prix": 200
@@ -640,16 +640,6 @@
     "prix": 350
   },
   {
-    "dimension": "195R15C",
-    "marque": "RADIAL",
-    "reference": "RD195R15C",
-    "stock_total": 1,
-    "stock_aouina": 1,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 250
-  },
-  {
     "dimension": "205/45R17",
     "marque": "CONTINENTAL",
     "reference": "CT205/45R17",
@@ -743,10 +733,10 @@
     "dimension": "205/55R16",
     "marque": "FULDA",
     "reference": "FL205/55R16",
-    "stock_total": 45,
+    "stock_total": 44,
     "stock_aouina": 10,
     "stock_dibou": 27,
-    "stock_ariana": 8,
+    "stock_ariana": 7,
     "prix": 250
   },
   {
@@ -843,8 +833,8 @@
     "dimension": "205/60R16",
     "marque": "HANKOOK",
     "reference": "HK205/60R16",
-    "stock_total": 11,
-    "stock_aouina": 6,
+    "stock_total": 7,
+    "stock_aouina": 2,
     "stock_dibou": 1,
     "stock_ariana": 4,
     "prix": 300
