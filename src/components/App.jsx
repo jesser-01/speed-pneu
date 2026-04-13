@@ -3,11 +3,14 @@ import SearchBar from './SearchBar';
 import Filters from './Filters';
 import ProductTable from './ProductTable';
 import useDebounce from '../hooks/useDebounce';
+import { fetchAndParseData } from '../utils/csvParser';
 import '../styles/App.css';
 
 export default function App() {
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [lastUpdate, setLastUpdate] = useState(null);
+  const [dataSource, setDataSource] = useState('csv'); // 'csv' or 'json'
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedBrand, setSelectedBrand] = useState('');
   const [showOnlyAvailable, setShowOnlyAvailable] = useState(false);
@@ -17,13 +20,30 @@ export default function App() {
 
   const debouncedSearchTerm = useDebounce(searchTerm, 300);
 
-  // Load products from JSON
+  // Load products - try CSV first, then fall back to JSON
   useEffect(() => {
     const loadProducts = async () => {
       try {
-        const response = await fetch('/products.json');
-        const data = await response.json();
+        setLoading(true);
+        let data;
+        let source = 'json';
+
+        // Try to load from data.csv first (automatically converted)
+        try {
+          data = await fetchAndParseData('/data.csv?t=' + Date.now()); // Cache busting
+          source = 'csv';
+        } catch (csvError) {
+          console.log('CSV not found, loading from JSON...');
+          // Fall back to products.json
+          const response = await fetch('/products.json?t=' + Date.now());
+          if (!response.ok) throw new Error('Failed to load products');
+          data = await response.json();
+          source = 'json';
+        }
+
         setProducts(data);
+        setDataSource(source);
+        setLastUpdate(new Date().toLocaleTimeString('fr-FR'));
         setLoading(false);
       } catch (error) {
         console.error('Error loading products:', error);
@@ -76,8 +96,36 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Stock Pneus</h1>
-        <p className="subtitle">Gestion des stocks de pneus</p>
+        <div className="header-top">
+          <div>
+            <h1>Stock Pneus</h1>
+            <p className="subtitle">Gestion des stocks de pneus</p>
+          </div>
+          <div className="header-controls">
+            <button 
+              onClick={() => {
+                setLoading(true);
+                setTimeout(() => {
+                  // Trigger reload
+                  window.location.reload();
+                }, 300);
+              }}
+              className="refresh-btn"
+              title="Actualiser les données"
+            >
+              🔄 Actualiser
+            </button>
+            {lastUpdate && (
+              <div className="data-info">
+                <small>
+                  Source: <span className="source-badge">{dataSource === 'csv' ? '📄 CSV Auto' : '📋 JSON'}</span>
+                  <br />
+                  Maj: <span className="update-time">{lastUpdate}</span>
+                </small>
+              </div>
+            )}
+          </div>
+        </div>
       </header>
 
       <main className="app-container">
