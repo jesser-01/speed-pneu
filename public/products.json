@@ -63,8 +63,8 @@
     "dimension": "165/70R13",
     "marque": "RADIAL",
     "reference": "RD165/70R13",
-    "stock_total": 5,
-    "stock_aouina": 4,
+    "stock_total": 4,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 1,
     "prix": 180
@@ -283,18 +283,18 @@
     "dimension": "185/60R15",
     "marque": "RADIAL",
     "reference": "RD185/60R15",
-    "stock_total": 7,
+    "stock_total": 4,
     "stock_aouina": 3,
     "stock_dibou": 0,
-    "stock_ariana": 4,
+    "stock_ariana": 1,
     "prix": 230
   },
   {
     "dimension": "185/60R15",
     "marque": "WESTLAKE",
     "reference": "WL185/60R15",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 2,
+    "stock_aouina": 2,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 230
@@ -533,10 +533,10 @@
     "dimension": "195/55R16",
     "marque": "RADIAL",
     "reference": "RD195/55R16",
-    "stock_total": 9,
+    "stock_total": 8,
     "stock_aouina": 5,
     "stock_dibou": 0,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 250
   },
   {
@@ -1193,8 +1193,8 @@
     "dimension": "225/40R18",
     "marque": "NEXEN",
     "reference": "NX225/40R18",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
