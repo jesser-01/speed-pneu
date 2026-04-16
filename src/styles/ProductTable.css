@@ -175,29 +175,26 @@
     display: none;
   }
 
+  /* Column width distribution */
+  .products-table th:nth-child(1) { width: 20%; }  /* Dimension */
+  .products-table th:nth-child(2) { width: 20%; }  /* Marque */
+  .products-table th:nth-child(4) { width: 12%; }  /* Stock Total */
+  .products-table th:nth-child(5) { width: 12%; }  /* Aouina */
+  .products-table th:nth-child(6) { width: 12%; }  /* Dibou */
+  .products-table th:nth-child(7) { width: 12%; }  /* Ariana */
+  .products-table th:nth-child(8) { width: 12%; }  /* Prix */
+
   .products-table th {
     font-size: 0.65rem;
     font-weight: 600;
-    padding: 0.3rem 0.2rem;
+    padding: 0.3rem 0.1rem;
     text-align: left;
     border: none;
     min-width: unset;
   }
 
-  /* Remove all min-width from specific columns */
-  .products-table th:nth-child(1),
-  .products-table th:nth-child(2),
-  .products-table th:nth-child(3),
-  .products-table th:nth-child(4),
-  .products-table th:nth-child(5),
-  .products-table th:nth-child(6),
-  .products-table th:nth-child(7),
-  .products-table th:nth-child(8) {
-    min-width: unset;
-  }
-
   .products-table td {
-    padding: 0.3rem 0.2rem;
+    padding: 0.3rem 0.1rem;
     font-size: 0.7rem;
     white-space: nowrap;
     overflow: hidden;
@@ -207,12 +204,6 @@
   .dimension-cell {
     font-weight: 600;
     color: var(--text-dark);
-  }
-
-  .reference-cell {
-    font-size: 0.7rem;
-    padding: 0.2rem 0.15rem;
-    background-color: transparent;
   }
 
   .price-cell {
