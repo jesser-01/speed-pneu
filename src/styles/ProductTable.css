@@ -158,44 +158,60 @@
 
 @media (max-width: 768px) {
   .table-wrapper {
-    overflow-x: auto;
+    overflow-x: visible;
     overflow-y: hidden;
   }
 
   .products-table {
     width: 100%;
-    table-layout: auto;
-    min-width: 900px;
+    table-layout: fixed;
   }
 
   .products-table th,
   .products-table td {
-    padding: 0.4rem 0.25rem;
-    font-size: 0.7rem;
+    padding: 0.3rem 0.15rem;
+    font-size: 0.65rem;
     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .products-table th {
-    font-size: 0.65rem;
-    padding: 0.3rem 0.2rem;
+    font-size: 0.6rem;
+    padding: 0.2rem 0.1rem;
   }
 
-  .products-table th:nth-child(1) { min-width: 65px; }
-  .products-table th:nth-child(2) { min-width: 65px; }
-  .products-table th:nth-child(3) { min-width: 70px; }
-  .products-table th:nth-child(4) { min-width: 60px; }
-  .products-table th:nth-child(5) { min-width: 55px; }
-  .products-table th:nth-child(6) { min-width: 55px; }
-  .products-table th:nth-child(7) { min-width: 55px; }
-  .products-table th:nth-child(8) { min-width: 60px; }
+  .products-table th:nth-child(1) { width: 12%; }
+  .products-table th:nth-child(2) { width: 12%; }
+  .products-table th:nth-child(3) { width: 14%; }
+  .products-table th:nth-child(4) { width: 11%; }
+  .products-table th:nth-child(5) { width: 10%; }
+  .products-table th:nth-child(6) { width: 10%; }
+  .products-table th:nth-child(7) { width: 10%; }
+  .products-table th:nth-child(8) { width: 11%; }
 
   .reference-cell {
-    font-size: 0.65rem;
-    padding: 0.2rem 0.3rem;
+    font-size: 0.6rem;
+    padding: 0.15rem 0.1rem;
   }
 
   .price-cell {
-    font-size: 0.7rem;
+    font-size: 0.65rem;
+    font-weight: 600;
+  }
+
+  .dimension-cell {
+    font-weight: 600;
+  }
+
+  .stock-total {
+    font-weight: 600;
+    display: table-cell;
+    gap: 0;
+  }
+
+  .stock-value {
+    min-width: 20px;
   }
 
   .row-out-of-stock td {
