@@ -39,11 +39,6 @@ export default function ProductTable({ products }) {
               <td className="reference-cell">{product.reference}</td>
               <td className={`stock-total ${getStockStatus(product.stock_total)}`}>
                 <span className="stock-value">{product.stock_total}</span>
-                {getStockBadge(product.stock_total) && (
-                  <span className={`badge ${getStockStatus(product.stock_total)}`}>
-                    {getStockBadge(product.stock_total)}
-                  </span>
-                )}
               </td>
               <td className={`stock-location ${getStockStatus(product.stock_aouina)}`}>
                 {product.stock_aouina}
