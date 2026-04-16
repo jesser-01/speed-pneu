@@ -158,89 +158,39 @@
 
 @media (max-width: 768px) {
   .table-wrapper {
-    overflow-x: visible;
-    overflow-y: visible;
+    overflow-x: auto;
+    overflow-y: hidden;
   }
 
   .products-table {
-    display: block;
+    table-layout: fixed;
+    width: 100%;
     min-width: auto;
   }
 
-  .products-table thead {
-    display: none;
-  }
+  .products-table th:nth-child(1) { min-width: 80px; }
+  .products-table th:nth-child(2) { min-width: 85px; }
+  .products-table th:nth-child(3) { min-width: 90px; }
+  .products-table th:nth-child(4) { min-width: 80px; }
+  .products-table th:nth-child(5) { min-width: 70px; }
+  .products-table th:nth-child(6) { min-width: 70px; }
+  .products-table th:nth-child(7) { min-width: 70px; }
+  .products-table th:nth-child(8) { min-width: 80px; }
 
-  .products-table tbody {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-
-  .products-table tbody tr {
-    display: grid;
-    grid-template-columns: 1fr;
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    padding: 1rem;
-    background: white;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  }
-
+  .products-table th,
   .products-table td {
-    display: grid;
-    grid-template-columns: 110px 1fr;
-    gap: 1rem;
-    align-items: center;
-    padding: 0.75rem 0;
-    font-size: 0.95rem;
-    white-space: normal;
-    border-bottom: none;
-    min-width: auto;
-    border-bottom: 1px solid #f0f0f0;
+    padding: 0.5rem 0.3rem;
+    font-size: 0.75rem;
+    white-space: nowrap;
   }
 
-  .products-table td:last-child {
-    border-bottom: none;
-  }
-
-  .products-table td::before {
-    content: attr(data-label);
-    font-weight: 600;
-    color: var(--text-dark);
-    font-size: 0.85rem;
-  }
-
-  .dimension-cell {
-    color: var(--text-dark);
-  }
-
-  .price-cell {
-    font-weight: 600;
-    color: var(--primary-color);
+  .products-table th {
+    font-size: 0.7rem;
   }
 
   .reference-cell {
-    font-family: 'Courier New', monospace;
-    font-size: 0.85rem;
-    color: var(--secondary-color);
-    background-color: #f0f4f8;
-    padding: 0.5rem 0.75rem;
-    border-radius: 4px;
-  }
-
-  .stock-total {
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .stock-location {
-    font-weight: 500;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    font-size: 0.7rem;
+    padding: 0.3rem 0.4rem;
   }
 
   .row-out-of-stock td {
@@ -254,50 +204,6 @@
   .row-high-stock td {
     background-color: transparent;
   }
-
-  .row-out-of-stock {
-    border-left: 4px solid var(--danger-color);
-  }
-
-  .row-low-stock {
-    border-left: 4px solid var(--warning-color);
-  }
-
-  .row-high-stock {
-    border-left: 4px solid var(--success-color);
-  }
-}
-
-@media (max-width: 768px) {
-  .table-wrapper {
-    overflow-x: visible;
-    overflow-y: visible;
-  }
-
-  .products-table {
-    display: block;
-    border-collapse: separate;
-    border-spacing: 0 1rem;
-    min-width: auto;
-  }
-
-  .products-table thead {
-    display: none;
-  }
-
-  .products-table tbody {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-
-  .products-table tbody tr {
-    display: flex;
-    flex-direction: column;
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    padding: 1rem;
-    background: white;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   }
 
