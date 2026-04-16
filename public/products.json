@@ -43,10 +43,10 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 4,
+    "stock_total": 3,
     "stock_aouina": 3,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 0,
     "prix": 200
   },
   {
@@ -153,8 +153,8 @@
     "dimension": "175/65R14",
     "marque": "RADIAL",
     "reference": "RD175/65R14",
-    "stock_total": 10,
-    "stock_aouina": 4,
+    "stock_total": 7,
+    "stock_aouina": 1,
     "stock_dibou": 1,
     "stock_ariana": 5,
     "prix": 180
@@ -163,8 +163,8 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 70,
-    "stock_aouina": 5,
+    "stock_total": 69,
+    "stock_aouina": 4,
     "stock_dibou": 60,
     "stock_ariana": 5,
     "prix": 190
@@ -173,8 +173,8 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 96,
-    "stock_aouina": 84,
+    "stock_total": 95,
+    "stock_aouina": 83,
     "stock_dibou": 0,
     "stock_ariana": 12,
     "prix": 180
@@ -203,8 +203,8 @@
     "dimension": "175/70R14",
     "marque": "WESTLAKE",
     "reference": "WL175/70R14",
-    "stock_total": 50,
-    "stock_aouina": 39,
+    "stock_total": 48,
+    "stock_aouina": 37,
     "stock_dibou": 0,
     "stock_ariana": 11,
     "prix": 200
@@ -353,8 +353,8 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 66,
-    "stock_aouina": 13,
+    "stock_total": 64,
+    "stock_aouina": 11,
     "stock_dibou": 49,
     "stock_ariana": 4,
     "prix": 260
@@ -418,16 +418,6 @@
     "stock_dibou": 0,
     "stock_ariana": 1,
     "prix": 230
-  },
-  {
-    "dimension": "185/70R14",
-    "marque": "SEMPERIT",
-    "reference": "SP185/70R14",
-    "stock_total": 2,
-    "stock_aouina": 2,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 280
   },
   {
     "dimension": "185/70R14",
@@ -523,8 +513,8 @@
     "dimension": "195/55R16",
     "marque": "RADIAL",
     "reference": "RD195/55R16",
-    "stock_total": 8,
-    "stock_aouina": 5,
+    "stock_total": 7,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 3,
     "prix": 250
@@ -653,8 +643,8 @@
     "dimension": "205/45R17",
     "marque": "GOODRIDE",
     "reference": "GR205/45R17",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 3,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 300
@@ -793,8 +783,8 @@
     "dimension": "205/55R17",
     "marque": "NEXEN",
     "reference": "NX205/55R17",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 2,
+    "stock_aouina": 2,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
@@ -1323,9 +1313,9 @@
     "dimension": "225/50R17",
     "marque": "HANKOOK",
     "reference": "HK225/50R17",
-    "stock_total": 13,
+    "stock_total": 9,
     "stock_aouina": 3,
-    "stock_dibou": 8,
+    "stock_dibou": 4,
     "stock_ariana": 2,
     "prix": 400
   },
