@@ -178,19 +178,21 @@
   /* Column width distribution */
   .products-table th:nth-child(1) { width: 25%; }  /* Dimension */
   .products-table th:nth-child(2) { width: 25%; }  /* Marque */
-  .products-table th:nth-child(4) { width: 10%; }  /* Stock Total */
-  .products-table th:nth-child(5) { width: 10%; }  /* Aouina */
-  .products-table th:nth-child(6) { width: 10%; }  /* Dibou */
-  .products-table th:nth-child(7) { width: 10%; }  /* Ariana */
-  .products-table th:nth-child(8) { width: 10%; }  /* Prix */
+  .products-table th:nth-child(4) { width: 8%; }   /* Stock Total */
+  .products-table th:nth-child(5) { width: 8%; }   /* Aouina */
+  .products-table th:nth-child(6) { width: 8%; }   /* Dibou */
+  .products-table th:nth-child(7) { width: 8%; }   /* Ariana */
+  .products-table th:nth-child(8) { width: 18%; }  /* Prix */
 
   .products-table th {
-    font-size: 0.65rem;
+    font-size: 0.55rem;
     font-weight: 600;
-    padding: 0.3rem 0.1rem;
+    padding: 0.2rem 0.08rem;
     text-align: left;
     border: none;
     min-width: unset;
+    line-height: 1.2;
+    word-break: break-word;
   }
 
   .products-table td {
