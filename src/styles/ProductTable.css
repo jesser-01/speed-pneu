@@ -169,6 +169,12 @@
     border-bottom: 1px solid var(--border-color);
   }
 
+  /* Hide reference column on mobile */
+  .products-table th:nth-child(3),
+  .products-table td:nth-child(3) {
+    display: none;
+  }
+
   .products-table th {
     font-size: 0.65rem;
     font-weight: 600;
