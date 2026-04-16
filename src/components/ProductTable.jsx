@@ -32,12 +32,12 @@ export default function ProductTable({ products }) {
         <tbody>
           {products.map((product, index) => (
             <tr key={index} className={`row-${getStockStatus(product.stock_total)}`}>
-              <td className="dimension-cell">
+              <td className="dimension-cell" data-label="Dimension">
                 <strong>{product.dimension}</strong>
               </td>
-              <td>{product.marque}</td>
-              <td className="reference-cell">{product.reference}</td>
-              <td className={`stock-total ${getStockStatus(product.stock_total)}`}>
+              <td data-label="Marque">{product.marque}</td>
+              <td className="reference-cell" data-label="Référence">{product.reference}</td>
+              <td className={`stock-total ${getStockStatus(product.stock_total)}`} data-label="Stock Total">
                 <span className="stock-value">{product.stock_total}</span>
                 {getStockBadge(product.stock_total) && (
                   <span className={`badge ${getStockStatus(product.stock_total)}`}>
@@ -45,16 +45,16 @@ export default function ProductTable({ products }) {
                   </span>
                 )}
               </td>
-              <td className={`stock-location ${getStockStatus(product.stock_aouina)}`}>
+              <td className={`stock-location ${getStockStatus(product.stock_aouina)}`} data-label="Aouina">
                 {product.stock_aouina}
               </td>
-              <td className={`stock-location ${getStockStatus(product.stock_dibou)}`}>
+              <td className={`stock-location ${getStockStatus(product.stock_dibou)}`} data-label="Dibou">
                 {product.stock_dibou}
               </td>
-              <td className={`stock-location ${getStockStatus(product.stock_ariana)}`}>
+              <td className={`stock-location ${getStockStatus(product.stock_ariana)}`} data-label="Ariana">
                 {product.stock_ariana}
               </td>
-              <td className="price-cell">
+              <td className="price-cell" data-label="Prix (DT)">
                 <strong>{product.prix.toFixed(2)} DT</strong>
               </td>
             </tr>

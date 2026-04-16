@@ -158,55 +158,217 @@
 
 @media (max-width: 768px) {
   .table-wrapper {
-    border-radius: 4px;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    overflow-x: visible;
+    overflow-y: visible;
   }
 
   .products-table {
-    table-layout: auto;
-    min-width: 1100px;
+    display: block;
+    min-width: auto;
   }
 
-  .products-table th,
+  .products-table thead {
+    display: none;
+  }
+
+  .products-table tbody {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .products-table tbody tr {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
   .products-table td {
-    padding: 0.6rem 0.4rem;
-    font-size: 0.85rem;
-    min-width: 75px !important;
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: 1rem;
+    align-items: center;
+    padding: 0.75rem 0;
+    font-size: 0.95rem;
+    white-space: normal;
+    border-bottom: none;
+    min-width: auto;
+    border-bottom: 1px solid #f0f0f0;
   }
 
-  .products-table th {
-    font-size: 0.75rem;
-    text-transform: capitalize;
+  .products-table td:last-child {
+    border-bottom: none;
+  }
+
+  .products-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: var(--text-dark);
+    font-size: 0.85rem;
   }
 
   .dimension-cell {
-    min-width: 100px;
+    color: var(--text-dark);
+  }
+
+  .price-cell {
+    font-weight: 600;
+    color: var(--primary-color);
   }
 
   .reference-cell {
-    font-size: 0.75rem;
-    padding: 0.3rem 0.5rem;
+    font-family: 'Courier New', monospace;
+    font-size: 0.85rem;
+    color: var(--secondary-color);
+    background-color: #f0f4f8;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+  }
+
+  .stock-total {
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .stock-location {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .row-out-of-stock td {
+    background-color: transparent;
+  }
+
+  .row-low-stock td {
+    background-color: transparent;
+  }
+
+  .row-high-stock td {
+    background-color: transparent;
+  }
+
+  .row-out-of-stock {
+    border-left: 4px solid var(--danger-color);
+  }
+
+  .row-low-stock {
+    border-left: 4px solid var(--warning-color);
+  }
+
+  .row-high-stock {
+    border-left: 4px solid var(--success-color);
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .table-wrapper {
-    border-radius: 0;
-    margin: 0 -0.5rem;
+    overflow-x: visible;
+    overflow-y: visible;
   }
 
   .products-table {
-    min-width: 800px;
+    display: block;
+    border-collapse: separate;
+    border-spacing: 0 1rem;
+    min-width: auto;
   }
 
-  .products-table th,
+  .products-table thead {
+    display: none;
+  }
+
+  .products-table tbody {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .products-table tbody tr {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
   .products-table td {
-    padding: 0.5rem 0.3rem;
-    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 0;
+    font-size: 0.95rem;
+    white-space: normal;
+    border-bottom: 1px solid #f0f0f0;
+    min-width: auto;
   }
 
-  .products-table th {
-    font-size: 0.7rem;
+  .products-table td:last-child {
+    border-bottom: none;
+  }
+
+  .products-table td::before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: var(--text-dark);
+    margin-right: 1rem;
+    min-width: 100px;
+  }
+
+  .dimension-cell::before { content: "Dimension"; }
+  .dimension-cell + td::before { content: "Marque"; }
+  .reference-cell::before { content: "Référence"; }
+  .stock-total::before { content: "Stock Total"; }
+  
+  .stock-location {
+    text-align: right;
+  }
+
+  .stock-location:nth-of-type(5)::before { content: "Aouina"; }
+  .stock-location:nth-of-type(6)::before { content: "Dibou"; }
+  .stock-location:nth-of-type(7)::before { content: "Ariana"; }
+
+  .price-cell::before { content: "Prix (DT)"; }
+
+  .dimension-cell {
+    color: var(--text-dark);
+  }
+
+  .price-cell strong {
+    display: block;
+    text-align: right;
+  }
+
+  .row-out-of-stock td {
+    background-color: transparent;
+  }
+
+  .row-low-stock td {
+    background-color: transparent;
+  }
+
+  .row-high-stock td {
+    background-color: transparent;
+  }
+
+  .row-out-of-stock {
+    border-left: 4px solid var(--danger-color);
+  }
+
+  .row-low-stock {
+    border-left: 4px solid var(--warning-color);
+  }
+
+  .row-high-stock {
+    border-left: 4px solid var(--success-color);
   }
 }
