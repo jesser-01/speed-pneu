@@ -158,44 +158,53 @@
 
 @media (max-width: 768px) {
   .table-wrapper {
-    overflow-x: auto;
-    overflow-y: hidden;
+    overflow-x: visible;
+    overflow-y: visible;
   }
 
   .products-table {
     width: 100%;
-    table-layout: auto;
-    min-width: 600px;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+
+  .products-table thead {
+    background: linear-gradient(90deg, #f3f4f6 0%, #f9fafb 100%);
+    border-bottom: 1px solid var(--border-color);
   }
 
   .products-table th,
   .products-table td {
-    padding: 0.4rem 0.3rem;
-    font-size: 0.8rem;
+    padding: 0.25rem 0.15rem;
+    font-size: 0.65rem;
     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .products-table th {
-    font-size: 0.75rem;
+    font-size: 0.6rem;
+    font-weight: 600;
+    padding: 0.2rem 0.1rem;
   }
 
-  .products-table th:nth-child(1) { min-width: 70px; }
-  .products-table th:nth-child(2) { min-width: 70px; }
-  .products-table th:nth-child(3) { min-width: 75px; }
-  .products-table th:nth-child(4) { min-width: 70px; }
-  .products-table th:nth-child(5) { min-width: 60px; }
-  .products-table th:nth-child(6) { min-width: 60px; }
-  .products-table th:nth-child(7) { min-width: 60px; }
-  .products-table th:nth-child(8) { min-width: 70px; }
+  .products-table tbody tr {
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .dimension-cell {
+    font-weight: 600;
+    color: var(--text-dark);
+  }
 
   .reference-cell {
-    font-size: 0.75rem;
-    padding: 0.3rem 0.2rem;
+    font-size: 0.6rem;
+    padding: 0.2rem 0.1rem;
   }
 
   .price-cell {
-    font-size: 0.8rem;
     font-weight: 600;
+    font-size: 0.65rem;
   }
 
   .row-out-of-stock td {
