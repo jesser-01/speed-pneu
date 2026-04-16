@@ -21,15 +21,18 @@
   z-index: 10;
   gap: 0.5rem;
 }
-
+.products-table thead tr {
+  padding: 10px;
+  
+}
 .products-table th {
   padding: 1rem;
-  text-align: right;
+  text-align: left;
   font-size: 0.875rem;
   font-weight: 600;
   color: var(--text-dark);
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  margin: auto;
   white-space: nowrap;
 
 }
@@ -119,7 +122,24 @@
   display: table-cell;
   vertical-align: middle;
 }
-
+.stock-total{
+  text-align: center;
+  font-weight: 500;
+  display: table-cell;
+  vertical-align: middle;
+}
+.stock-total.out-of-stock {
+  color: var(--danger-color);
+  font-weight: 700;
+}
+.stock-total.low-stock {
+  color: var(--warning-color);
+  font-weight: 700;
+}
+.stock-total.high-stock {
+  color: var(--success-color);
+  font-weight: 700;
+}
 .stock-location.out-of-stock {
   color: var(--danger-color);
   font-weight: 700;
@@ -127,6 +147,10 @@
 
 .stock-location.low-stock {
   color: var(--warning-color);
+  font-weight: 700;
+}
+.stock-location.high-stock {
+  color: var(--success-color);
   font-weight: 700;
 }
 
@@ -176,6 +200,13 @@
   .products-table td:nth-child(3) {
     display: none;
   }
+  .desktop-text {
+    display: none;
+  }
+  .stock-header::after {
+    content: attr(data-short);
+    display: inline-block;
+  }
 
   /* Column width distribution */
   .products-table th:nth-child(1) { width: 25%; }  /* Dimension */
@@ -190,7 +221,7 @@
     font-size: 0.55rem;
     font-weight: 600;
     padding: 0.2rem 0.08rem;
-    text-align: left;
+    text-align: center;
     border: none;
     min-width: unset;
     line-height: 1.2;
@@ -203,6 +234,7 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    text-align: center;
   }
 
   .dimension-cell {
