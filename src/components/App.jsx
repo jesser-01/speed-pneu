@@ -15,7 +15,7 @@ export default function App() {
   const [selectedBrand, setSelectedBrand] = useState('');
   const [showOnlyAvailable, setShowOnlyAvailable] = useState(false);
   const [showLowStock, setShowLowStock] = useState(false);
-  const [sortBy, setSortBy] = useState('dimension');
+  const [sortBy, setSortBy] = useState('price');
   const [sortOrder, setSortOrder] = useState('asc');
 
   const debouncedSearchTerm = useDebounce(searchTerm, 300);

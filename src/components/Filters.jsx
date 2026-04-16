@@ -39,8 +39,8 @@ export default function Filters({
             onChange={(e) => onSortByChange(e.target.value)}
             className="filter-select"
           >
-            <option value="dimension">Dimension</option>
             <option value="price">Prix</option>
+            <option value="dimension">Dimension</option>
             <option value="stock">Total Stock</option>
           </select>
         </div>
