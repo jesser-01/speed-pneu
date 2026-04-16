@@ -26,7 +26,7 @@ export default function ProductTable({ products }) {
             <th>Aouina</th>
             <th>Dibou</th>
             <th>Ariana</th>
-            <th>Prix (DT)</th>
+            <th>Prix</th>
           </tr>
         </thead>
         <tbody>
