@@ -4,7 +4,7 @@ export default function ProductTable({ products }) {
   const getStockStatus = (stock) => {
     if (stock === 0) return 'out-of-stock';
     if (stock < 5) return 'low-stock';
-    if (stock >= 50) return 'high-stock';
+    if (stock >= 5) return 'high-stock';
     return 'normal-stock';
   };
 
@@ -17,16 +17,16 @@ export default function ProductTable({ products }) {
   return (
     <div className="table-wrapper">
       <table className="products-table">
-        <thead>
-          <tr>
+        <thead className="table-2header">
+          <tr className="table-header">
             <th>Dimension</th>
             <th>Marque</th>
             <th>Référence</th>
-            <th>Stock Total</th>
-            <th>Aouina</th>
-            <th>Dibou</th>
-            <th>Ariana</th>
-            <th>Prix (DT)</th>
+            <th class='thead-item stock-header' data-short="ST"><span class="desktop-text">Stock Total</span></th>
+            <th class='thead-item stock-header' data-short="AO"><span class="desktop-text">Aouina</span></th>
+            <th class='thead-item stock-header' data-short="DB"><span class="desktop-text">Dibou</span></th>
+            <th class='thead-item stock-header' data-short="AR"><span class="desktop-text">Ariana</span></th>
+            <th>Prix</th>
           </tr>
         </thead>
         <tbody>
@@ -39,11 +39,6 @@ export default function ProductTable({ products }) {
               <td className="reference-cell">{product.reference}</td>
               <td className={`stock-total ${getStockStatus(product.stock_total)}`}>
                 <span className="stock-value">{product.stock_total}</span>
-                {getStockBadge(product.stock_total) && (
-                  <span className={`badge ${getStockStatus(product.stock_total)}`}>
-                    {getStockBadge(product.stock_total)}
-                  </span>
-                )}
               </td>
               <td className={`stock-location ${getStockStatus(product.stock_aouina)}`}>
                 {product.stock_aouina}
@@ -55,7 +50,7 @@ export default function ProductTable({ products }) {
                 {product.stock_ariana}
               </td>
               <td className="price-cell">
-                <strong>{product.prix.toFixed(2)} DT</strong>
+                <strong>{product.prix} DT</strong>
               </td>
             </tr>
           ))}
