@@ -93,8 +93,8 @@
     "dimension": "175/55R15",
     "marque": "RADIAL",
     "reference": "RD175/55R15",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 250
@@ -223,8 +223,8 @@
     "dimension": "185/55R15",
     "marque": "GOODYEAR",
     "reference": "GD185/55R15",
-    "stock_total": 39,
-    "stock_aouina": 4,
+    "stock_total": 38,
+    "stock_aouina": 3,
     "stock_dibou": 31,
     "stock_ariana": 4,
     "prix": 340
@@ -393,8 +393,8 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 91,
-    "stock_aouina": 85,
+    "stock_total": 89,
+    "stock_aouina": 83,
     "stock_dibou": 0,
     "stock_ariana": 6,
     "prix": 220
@@ -1083,8 +1083,8 @@
     "dimension": "215/60R17",
     "marque": "RADIAL",
     "reference": "RD215/60R17",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 300
@@ -1213,10 +1213,10 @@
     "dimension": "225/45R17",
     "marque": "GOODYEAR",
     "reference": "GD225/45R17",
-    "stock_total": 29,
+    "stock_total": 28,
     "stock_aouina": 6,
     "stock_dibou": 19,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 380
   },
   {
@@ -1433,8 +1433,8 @@
     "dimension": "235/40R19",
     "marque": "GOODYEAR",
     "reference": "GD235/40R19",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 3,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 850
