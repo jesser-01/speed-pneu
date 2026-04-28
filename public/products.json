@@ -513,8 +513,8 @@
     "dimension": "195/65R15",
     "marque": "DOUBLESTAR",
     "reference": "DS195/65R15",
-    "stock_total": 8,
-    "stock_aouina": 2,
+    "stock_total": 6,
+    "stock_aouina": 0,
     "stock_dibou": 6,
     "stock_ariana": 0,
     "prix": 230
@@ -693,8 +693,8 @@
     "dimension": "205/55R16",
     "marque": "FULDA",
     "reference": "FL205/55R16",
-    "stock_total": 41,
-    "stock_aouina": 11,
+    "stock_total": 37,
+    "stock_aouina": 7,
     "stock_dibou": 23,
     "stock_ariana": 7,
     "prix": 250
@@ -1123,8 +1123,8 @@
     "dimension": "215/70R15C",
     "marque": "RADIAL",
     "reference": "RD215/70R15C",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 330
