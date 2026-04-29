@@ -13,10 +13,10 @@
     "dimension": "155/70R13",
     "marque": "RADIAL",
     "reference": "RD155/70R13",
-    "stock_total": 11,
+    "stock_total": 10,
     "stock_aouina": 5,
     "stock_dibou": 0,
-    "stock_ariana": 6,
+    "stock_ariana": 5,
     "prix": 180
   },
   {
@@ -121,20 +121,10 @@
   },
   {
     "dimension": "175/65R14",
-    "marque": "AMINE",
-    "reference": "AM175/65R14",
-    "stock_total": 2,
-    "stock_aouina": 0,
-    "stock_dibou": 0,
-    "stock_ariana": 2,
-    "prix": 170
-  },
-  {
-    "dimension": "175/65R14",
     "marque": "GOODYEAR",
     "reference": "GD175/65R14",
-    "stock_total": 97,
-    "stock_aouina": 4,
+    "stock_total": 95,
+    "stock_aouina": 2,
     "stock_dibou": 92,
     "stock_ariana": 1,
     "prix": 220
@@ -343,8 +333,8 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 64,
-    "stock_aouina": 11,
+    "stock_total": 62,
+    "stock_aouina": 9,
     "stock_dibou": 49,
     "stock_ariana": 4,
     "prix": 260
@@ -383,8 +373,8 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 82,
-    "stock_aouina": 76,
+    "stock_total": 81,
+    "stock_aouina": 75,
     "stock_dibou": 0,
     "stock_ariana": 6,
     "prix": 220
@@ -953,28 +943,18 @@
     "dimension": "215/50R17",
     "marque": "HANKOOK",
     "reference": "HK215/50R17",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 3,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
   },
   {
-    "dimension": "215/50R17",
-    "marque": "LUFEN",
-    "reference": "LF215/50R17",
-    "stock_total": 1,
-    "stock_aouina": 1,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 420
-  },
-  {
     "dimension": "215/50R18",
     "marque": "GOODYEAR",
     "reference": "GD215/50R18",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 3,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 600
@@ -1118,16 +1098,6 @@
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 370
-  },
-  {
-    "dimension": "215/70R15C",
-    "marque": "RADIAL",
-    "reference": "RD215/70R15C",
-    "stock_total": 1,
-    "stock_aouina": 1,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 330
   },
   {
     "dimension": "225/40R18",
@@ -1748,16 +1718,6 @@
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 600
-  },
-  {
-    "dimension": "245/70R16",
-    "marque": "LASSA",
-    "reference": "LS245/70R16",
-    "stock_total": 2,
-    "stock_aouina": 0,
-    "stock_dibou": 0,
-    "stock_ariana": 2,
-    "prix": 500
   },
   {
     "dimension": "255/35R19",
