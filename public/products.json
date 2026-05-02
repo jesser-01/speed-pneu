@@ -590,6 +590,16 @@
     "prix": 350
   },
   {
+    "dimension": "195R15C",
+    "marque": "RADIAL",
+    "reference": "RD195R15C",
+    "stock_total": 1,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 1,
+    "prix": 350
+  },
+  {
     "dimension": "205/45R17",
     "marque": "CONTINENTAL",
     "reference": "CT205/45R17",
