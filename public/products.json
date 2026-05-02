@@ -25,8 +25,8 @@
     "reference": "GD165/60R14",
     "stock_total": 7,
     "stock_aouina": 4,
-    "stock_dibou": 3,
-    "stock_ariana": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 3,
     "prix": 230
   },
   {
@@ -113,8 +113,8 @@
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 15,
-    "stock_aouina": 6,
+    "stock_total": 13,
+    "stock_aouina": 4,
     "stock_dibou": 5,
     "stock_ariana": 4,
     "prix": 230
@@ -123,9 +123,9 @@
     "dimension": "175/65R14",
     "marque": "GOODYEAR",
     "reference": "GD175/65R14",
-    "stock_total": 95,
+    "stock_total": 91,
     "stock_aouina": 6,
-    "stock_dibou": 77,
+    "stock_dibou": 73,
     "stock_ariana": 12,
     "prix": 220
   },
@@ -163,8 +163,8 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 87,
-    "stock_aouina": 77,
+    "stock_total": 85,
+    "stock_aouina": 75,
     "stock_dibou": 0,
     "stock_ariana": 10,
     "prix": 180
@@ -274,8 +274,8 @@
     "marque": "GOODYEAR",
     "reference": "GD185/60R16",
     "stock_total": 5,
-    "stock_aouina": 2,
-    "stock_dibou": 2,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
     "stock_ariana": 1,
     "prix": 420
   },
@@ -314,8 +314,8 @@
     "marque": "FULDA",
     "reference": "FL185/65R15",
     "stock_total": 136,
-    "stock_aouina": 16,
-    "stock_dibou": 109,
+    "stock_aouina": 17,
+    "stock_dibou": 108,
     "stock_ariana": 11,
     "prix": 245
   },
@@ -443,9 +443,9 @@
     "dimension": "195/55R16",
     "marque": "GOODYEAR",
     "reference": "GD195/55R16",
-    "stock_total": 16,
+    "stock_total": 13,
     "stock_aouina": 4,
-    "stock_dibou": 8,
+    "stock_dibou": 5,
     "stock_ariana": 4,
     "prix": 350
   },
@@ -455,8 +455,8 @@
     "reference": "HK195/55R16",
     "stock_total": 15,
     "stock_aouina": 2,
-    "stock_dibou": 11,
-    "stock_ariana": 2,
+    "stock_dibou": 9,
+    "stock_ariana": 4,
     "prix": 290
   },
   {
@@ -585,8 +585,8 @@
     "reference": "GR195/75R16C",
     "stock_total": 12,
     "stock_aouina": 3,
-    "stock_dibou": 7,
-    "stock_ariana": 2,
+    "stock_dibou": 5,
+    "stock_ariana": 4,
     "prix": 350
   },
   {
@@ -624,9 +624,9 @@
     "marque": "GOODYEAR",
     "reference": "GD205/45R17",
     "stock_total": 16,
-    "stock_aouina": 0,
+    "stock_aouina": 4,
     "stock_dibou": 8,
-    "stock_ariana": 8,
+    "stock_ariana": 4,
     "prix": 450
   },
   {
@@ -693,10 +693,10 @@
     "dimension": "205/55R16",
     "marque": "FULDA",
     "reference": "FL205/55R16",
-    "stock_total": 32,
-    "stock_aouina": 3,
-    "stock_dibou": 22,
-    "stock_ariana": 7,
+    "stock_total": 26,
+    "stock_aouina": 4,
+    "stock_dibou": 17,
+    "stock_ariana": 5,
     "prix": 250
   },
   {
@@ -725,8 +725,8 @@
     "reference": "HK205/55R16",
     "stock_total": 7,
     "stock_aouina": 4,
-    "stock_dibou": 3,
-    "stock_ariana": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 3,
     "prix": 260
   },
   {
@@ -783,8 +783,8 @@
     "dimension": "205/60R16",
     "marque": "GOODYEAR",
     "reference": "GD205/60R16",
-    "stock_total": 19,
-    "stock_aouina": 4,
+    "stock_total": 15,
+    "stock_aouina": 0,
     "stock_dibou": 15,
     "stock_ariana": 0,
     "prix": 380
@@ -883,10 +883,10 @@
     "dimension": "215/45R17",
     "marque": "HANKOOK",
     "reference": "HK215/45R17",
-    "stock_total": 20,
+    "stock_total": 19,
     "stock_aouina": 3,
-    "stock_dibou": 15,
-    "stock_ariana": 2,
+    "stock_dibou": 13,
+    "stock_ariana": 3,
     "prix": 400
   },
   {
@@ -1133,10 +1133,10 @@
     "dimension": "225/40R18",
     "marque": "GOODYEAR",
     "reference": "GD225/40R18",
-    "stock_total": 18,
+    "stock_total": 14,
     "stock_aouina": 4,
-    "stock_dibou": 14,
-    "stock_ariana": 0,
+    "stock_dibou": 6,
+    "stock_ariana": 4,
     "prix": 480
   },
   {
@@ -1204,8 +1204,8 @@
     "marque": "FULDA",
     "reference": "FL225/45R17",
     "stock_total": 19,
-    "stock_aouina": 2,
-    "stock_dibou": 13,
+    "stock_aouina": 6,
+    "stock_dibou": 9,
     "stock_ariana": 4,
     "prix": 350
   },
@@ -1214,9 +1214,9 @@
     "marque": "GOODYEAR",
     "reference": "GD225/45R17",
     "stock_total": 22,
-    "stock_aouina": 2,
-    "stock_dibou": 17,
-    "stock_ariana": 3,
+    "stock_aouina": 4,
+    "stock_dibou": 14,
+    "stock_ariana": 4,
     "prix": 380
   },
   {
