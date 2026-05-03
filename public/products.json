@@ -13,8 +13,8 @@
     "dimension": "155/70R13",
     "marque": "RADIAL",
     "reference": "RD155/70R13",
-    "stock_total": 9,
-    "stock_aouina": 5,
+    "stock_total": 8,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 180
@@ -163,8 +163,8 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 85,
-    "stock_aouina": 75,
+    "stock_total": 84,
+    "stock_aouina": 74,
     "stock_dibou": 0,
     "stock_ariana": 10,
     "prix": 180
@@ -373,10 +373,10 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 81,
+    "stock_total": 77,
     "stock_aouina": 75,
     "stock_dibou": 0,
-    "stock_ariana": 6,
+    "stock_ariana": 2,
     "prix": 220
   },
   {
@@ -453,9 +453,9 @@
     "dimension": "195/55R16",
     "marque": "HANKOOK",
     "reference": "HK195/55R16",
-    "stock_total": 15,
+    "stock_total": 11,
     "stock_aouina": 2,
-    "stock_dibou": 9,
+    "stock_dibou": 5,
     "stock_ariana": 4,
     "prix": 290
   },
@@ -683,10 +683,10 @@
     "dimension": "205/55R16",
     "marque": "BRIDGESTONE",
     "reference": "BR205/55R16",
-    "stock_total": 4,
+    "stock_total": 2,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 4,
+    "stock_ariana": 2,
     "prix": 290
   },
   {
