@@ -13,10 +13,10 @@
     "dimension": "155/70R13",
     "marque": "RADIAL",
     "reference": "RD155/70R13",
-    "stock_total": 8,
+    "stock_total": 7,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 180
   },
   {
@@ -1223,8 +1223,8 @@
     "dimension": "225/45R17",
     "marque": "GOODYEAR",
     "reference": "GD225/45R17",
-    "stock_total": 22,
-    "stock_aouina": 4,
+    "stock_total": 20,
+    "stock_aouina": 2,
     "stock_dibou": 14,
     "stock_ariana": 4,
     "prix": 380
