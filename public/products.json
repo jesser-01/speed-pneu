@@ -153,10 +153,10 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 53,
-    "stock_aouina": 6,
+    "stock_total": 48,
+    "stock_aouina": 2,
     "stock_dibou": 35,
-    "stock_ariana": 12,
+    "stock_ariana": 11,
     "prix": 190
   },
   {
@@ -168,16 +168,6 @@
     "stock_dibou": 0,
     "stock_ariana": 10,
     "prix": 180
-  },
-  {
-    "dimension": "175/70R13",
-    "marque": "WESTLAKE",
-    "reference": "WL175/70R13",
-    "stock_total": 4,
-    "stock_aouina": 4,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 200
   },
   {
     "dimension": "175/70R14",
@@ -313,8 +303,8 @@
     "dimension": "185/65R15",
     "marque": "FULDA",
     "reference": "FL185/65R15",
-    "stock_total": 136,
-    "stock_aouina": 17,
+    "stock_total": 134,
+    "stock_aouina": 15,
     "stock_dibou": 108,
     "stock_ariana": 11,
     "prix": 245
@@ -723,8 +713,8 @@
     "dimension": "205/55R16",
     "marque": "GOODYEAR",
     "reference": "GD205/55R16",
-    "stock_total": 6,
-    "stock_aouina": 2,
+    "stock_total": 5,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 280
@@ -1183,8 +1173,8 @@
     "dimension": "225/40R18",
     "marque": "SEMPERIT",
     "reference": "SP225/40R18",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 450
