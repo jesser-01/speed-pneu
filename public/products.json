@@ -543,18 +543,18 @@
     "dimension": "195/65R15",
     "marque": "RADIAL",
     "reference": "RD195/65R15",
-    "stock_total": 15,
+    "stock_total": 13,
     "stock_aouina": 5,
     "stock_dibou": 1,
-    "stock_ariana": 9,
+    "stock_ariana": 7,
     "prix": 230
   },
   {
     "dimension": "195/65R15",
     "marque": "SEMPERIT",
     "reference": "SP195/65R15",
-    "stock_total": 89,
-    "stock_aouina": 9,
+    "stock_total": 88,
+    "stock_aouina": 8,
     "stock_dibou": 69,
     "stock_ariana": 11,
     "prix": 250
@@ -1203,8 +1203,8 @@
     "dimension": "225/45R17",
     "marque": "FULDA",
     "reference": "FL225/45R17",
-    "stock_total": 19,
-    "stock_aouina": 6,
+    "stock_total": 17,
+    "stock_aouina": 4,
     "stock_dibou": 9,
     "stock_ariana": 4,
     "prix": 350
