@@ -89,8 +89,19 @@ export default function App() {
         compareValue = a.prix - b.prix;
       } else if (sortBy === 'stock') {
         compareValue = a.stock_total - b.stock_total;
-      } else {
-        compareValue = a.dimension.localeCompare(b.dimension);
+      } else if (sortBy === 'dimension') {
+        const parseDim = (dim) => {
+          const match = dim?.match(/^(\d+)\/(\d+)R(\d+)/i);
+          if (!match) return { width: 0, rimSize: 0 };
+          return { width: parseInt(match[1]), rimSize: parseInt(match[3]) };
+        };
+        const dimA = parseDim(a.dimension);
+        const dimB = parseDim(b.dimension);
+        if (dimA.rimSize !== dimB.rimSize) {
+          compareValue = dimA.rimSize - dimB.rimSize;
+        } else {
+          compareValue = dimA.width - dimB.width;
+        }
       }
 
       return sortOrder === 'asc' ? compareValue : -compareValue;
