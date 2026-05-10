@@ -13,10 +13,10 @@
     "dimension": "155/70R13",
     "marque": "RADIAL",
     "reference": "RD155/70R13",
-    "stock_total": 4,
+    "stock_total": 2,
     "stock_aouina": 1,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 1,
     "prix": 180
   },
   {
@@ -73,8 +73,8 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 43,
-    "stock_aouina": 4,
+    "stock_total": 41,
+    "stock_aouina": 2,
     "stock_dibou": 31,
     "stock_ariana": 8,
     "prix": 190
@@ -163,8 +163,8 @@
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 13,
-    "stock_aouina": 4,
+    "stock_total": 11,
+    "stock_aouina": 2,
     "stock_dibou": 5,
     "stock_ariana": 4,
     "prix": 230
@@ -233,9 +233,9 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 47,
+    "stock_total": 43,
     "stock_aouina": 6,
-    "stock_dibou": 31,
+    "stock_dibou": 27,
     "stock_ariana": 10,
     "prix": 190
   },
@@ -243,10 +243,10 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 64,
+    "stock_total": 63,
     "stock_aouina": 53,
     "stock_dibou": 0,
-    "stock_ariana": 11,
+    "stock_ariana": 10,
     "prix": 180
   },
   {
@@ -523,10 +523,10 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 152,
-    "stock_aouina": 6,
-    "stock_dibou": 135,
-    "stock_ariana": 11,
+    "stock_total": 143,
+    "stock_aouina": 3,
+    "stock_dibou": 133,
+    "stock_ariana": 7,
     "prix": 270
   },
   {
@@ -633,18 +633,18 @@
     "dimension": "195/50R15",
     "marque": "SEMPERIT",
     "reference": "SP195/50R15",
-    "stock_total": 22,
+    "stock_total": 21,
     "stock_aouina": 4,
     "stock_dibou": 14,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 260
   },
   {
     "dimension": "195/50R15",
     "marque": "WESTLAKE",
     "reference": "WL195/50R15",
-    "stock_total": 10,
-    "stock_aouina": 8,
+    "stock_total": 8,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 240
@@ -673,8 +673,8 @@
     "dimension": "195/55R16",
     "marque": "GOODYEAR",
     "reference": "GD195/55R16",
-    "stock_total": 13,
-    "stock_aouina": 4,
+    "stock_total": 9,
+    "stock_aouina": 0,
     "stock_dibou": 5,
     "stock_ariana": 4,
     "prix": 350
@@ -723,9 +723,9 @@
     "dimension": "195/60R16",
     "marque": "GOODYEAR",
     "reference": "GD195/60R16",
-    "stock_total": 30,
+    "stock_total": 26,
     "stock_aouina": 4,
-    "stock_dibou": 22,
+    "stock_dibou": 18,
     "stock_ariana": 4,
     "prix": 360
   },
@@ -973,10 +973,10 @@
     "dimension": "205/55R16",
     "marque": "FULDA",
     "reference": "FL205/55R16",
-    "stock_total": 23,
+    "stock_total": 22,
     "stock_aouina": 7,
     "stock_dibou": 13,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 250
   },
   {
@@ -1213,10 +1213,10 @@
     "dimension": "215/45R17",
     "marque": "IRIS",
     "reference": "IR215/45R17",
-    "stock_total": 1,
+    "stock_total": 0,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 0,
     "prix": 300
   },
   {
