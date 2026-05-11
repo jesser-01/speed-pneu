@@ -13,7 +13,7 @@ export default function App() {
   const [dataSource, setDataSource] = useState('json'); // 'excel' or 'json'
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedBrand, setSelectedBrand] = useState('');
-  const [showOnlyAvailable, setShowOnlyAvailable] = useState(false);
+  const [showOnlyAvailable, setShowOnlyAvailable] = useState(true);
   const [showLowStock, setShowLowStock] = useState(false);
   const [sortBy, setSortBy] = useState('price');
   const [sortOrder, setSortOrder] = useState('asc');
