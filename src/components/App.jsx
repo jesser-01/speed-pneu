@@ -68,7 +68,7 @@ export default function App() {
   // Filter and sort products
   const filteredProducts = useMemo(() => {
     let result = products.filter(product => {
-      const matchesSearch = product.dimension
+      const matchesSearch = (product.dimension || '')
         .toLowerCase()
         .includes(debouncedSearchTerm.toLowerCase());
       

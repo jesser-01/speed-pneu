@@ -30,8 +30,8 @@ export default function ProductTable({ products }) {
           </tr>
         </thead>
         <tbody>
-          {products.map((product, index) => (
-            <tr key={index} className={`row-${getStockStatus(product.stock_total)}`}>
+          {products.map((product) => (
+            <tr key={`${product.dimension}-${product.marque}`} className={`row-${getStockStatus(product.stock_total)}`}>
               <td className="dimension-cell">
                 <strong>{product.dimension}</strong>
               </td>
@@ -50,7 +50,7 @@ export default function ProductTable({ products }) {
                 {product.stock_ariana}
               </td>
               <td className="price-cell">
-                <strong>{product.prix} DT</strong>
+                <strong>{product.prix ?? 'N/A'} DT</strong>
               </td>
             </tr>
           ))}
