@@ -3,6 +3,8 @@
  * Dynamically loads XLSX library and parses Excel files in the browser
  */
 
+import { parseFlexibleNumber } from './numberParser';
+
 let XLSX = null;
 
 /**
@@ -78,7 +80,9 @@ export async function parseExcelBuffer(buffer, sheetName = null) {
         } else if (lowerKey.includes('ariana') || lowerKey.includes('warehouse3') || lowerKey.includes('lieu3')) {
           product.stock_ariana = parseInt(row[key]) || 0;
         } else if (lowerKey.includes('prix') || lowerKey.includes('price')) {
-          product.prix = parseFloat(row[key]) || 0;
+          // Use flexible parser to support comma decimals & formatted numbers on Android.
+          // (e.g. "240,50" or "1 200,00")
+          product.prix = parseFlexibleNumber(row[key]);
         }
       });
 

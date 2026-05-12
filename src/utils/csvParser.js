@@ -3,6 +3,8 @@
  * Used by the app to automatically convert CSV data files
  */
 
+import { parseFlexibleNumber } from './numberParser';
+
 export function parseCSVData(csvText) {
   const lines = csvText.split('\n').map(l => l.trim()).filter(l => l);
   
@@ -42,9 +44,9 @@ export function parseCSVData(csvText) {
 
       if (mappedName && value) {
         if (mappedName.includes('stock') || mappedName === 'stock_total') {
-          product[mappedName] = parseInt(value) || 0;
+          product[mappedName] = parseInt(String(value).replace(/\u00A0/g, ' ').trim(), 10) || 0;
         } else if (mappedName === 'prix') {
-          product[mappedName] = parseFloat(value) || 0;
+          product[mappedName] = parseFlexibleNumber(value);
         } else {
           product[mappedName] = value;
         }
