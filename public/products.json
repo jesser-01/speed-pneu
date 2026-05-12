@@ -54,8 +54,8 @@
     "marque": "FULDA",
     "reference": "FL165/65R14",
     "stock_total": 49,
-    "stock_aouina": 3,
-    "stock_dibou": 42,
+    "stock_aouina": 4,
+    "stock_dibou": 41,
     "stock_ariana": 4,
     "prix": 190
   },
@@ -74,8 +74,8 @@
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
     "stock_total": 41,
-    "stock_aouina": 2,
-    "stock_dibou": 31,
+    "stock_aouina": 4,
+    "stock_dibou": 29,
     "stock_ariana": 8,
     "prix": 190
   },
@@ -244,8 +244,8 @@
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
     "stock_total": 63,
-    "stock_aouina": 53,
-    "stock_dibou": 0,
+    "stock_aouina": 33,
+    "stock_dibou": 20,
     "stock_ariana": 10,
     "prix": 180
   },
@@ -363,10 +363,10 @@
     "dimension": "185/55R15",
     "marque": "GOODYEAR",
     "reference": "GD185/55R15",
-    "stock_total": 36,
+    "stock_total": 35,
     "stock_aouina": 4,
     "stock_dibou": 29,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 340
   },
   {
@@ -433,9 +433,9 @@
     "dimension": "185/60R15",
     "marque": "RADIAL",
     "reference": "RD185/60R15",
-    "stock_total": 15,
+    "stock_total": 19,
     "stock_aouina": 5,
-    "stock_dibou": 5,
+    "stock_dibou": 9,
     "stock_ariana": 5,
     "prix": 230
   },
@@ -504,8 +504,8 @@
     "marque": "FULDA",
     "reference": "FL185/65R15",
     "stock_total": 130,
-    "stock_aouina": 11,
-    "stock_dibou": 108,
+    "stock_aouina": 15,
+    "stock_dibou": 104,
     "stock_ariana": 11,
     "prix": 245
   },
@@ -524,8 +524,8 @@
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
     "stock_total": 139,
-    "stock_aouina": 0,
-    "stock_dibou": 133,
+    "stock_aouina": 8,
+    "stock_dibou": 125,
     "stock_ariana": 6,
     "prix": 270
   },
@@ -583,10 +583,10 @@
     "dimension": "185/70R14",
     "marque": "RADIAL",
     "reference": "RD185/70R14",
-    "stock_total": 7,
-    "stock_aouina": 6,
+    "stock_total": 6,
+    "stock_aouina": 1,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 5,
     "prix": 230
   },
   {
@@ -603,10 +603,10 @@
     "dimension": "185/70R14",
     "marque": "WESTLAKE",
     "reference": "WL185/70R14",
-    "stock_total": 6,
+    "stock_total": 5,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 1,
     "prix": 240
   },
   {
@@ -614,9 +614,9 @@
     "marque": "RADIAL",
     "reference": "RD185R14C",
     "stock_total": 5,
-    "stock_aouina": 5,
+    "stock_aouina": 1,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 270
   },
   {
@@ -723,9 +723,9 @@
     "dimension": "195/55R16",
     "marque": "RADIAL",
     "reference": "RD195/55R16",
-    "stock_total": 12,
-    "stock_aouina": 9,
-    "stock_dibou": 0,
+    "stock_total": 11,
+    "stock_aouina": 4,
+    "stock_dibou": 4,
     "stock_ariana": 3,
     "prix": 250
   },
@@ -763,8 +763,8 @@
     "dimension": "195/65R15",
     "marque": "GOODYEAR",
     "reference": "GD195/65R15",
-    "stock_total": 60,
-    "stock_aouina": 4,
+    "stock_total": 59,
+    "stock_aouina": 3,
     "stock_dibou": 48,
     "stock_ariana": 8,
     "prix": 275
@@ -984,8 +984,8 @@
     "marque": "FULDA",
     "reference": "FL205/55R16",
     "stock_total": 22,
-    "stock_aouina": 7,
-    "stock_dibou": 13,
+    "stock_aouina": 8,
+    "stock_dibou": 12,
     "stock_ariana": 2,
     "prix": 250
   },
