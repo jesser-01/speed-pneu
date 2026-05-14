@@ -523,8 +523,8 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 139,
-    "stock_aouina": 8,
+    "stock_total": 138,
+    "stock_aouina": 7,
     "stock_dibou": 125,
     "stock_ariana": 6,
     "prix": 270
@@ -643,10 +643,10 @@
     "dimension": "195/50R15",
     "marque": "SEMPERIT",
     "reference": "SP195/50R15",
-    "stock_total": 21,
+    "stock_total": 20,
     "stock_aouina": 4,
     "stock_dibou": 14,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 260
   },
   {
@@ -1383,8 +1383,8 @@
     "dimension": "215/60R16",
     "marque": "BRIDGESTONE",
     "reference": "BR215/60R16",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 380
@@ -1633,8 +1633,8 @@
     "dimension": "225/45R17",
     "marque": "GOODYEAR",
     "reference": "GD225/45R17",
-    "stock_total": 20,
-    "stock_aouina": 5,
+    "stock_total": 19,
+    "stock_aouina": 4,
     "stock_dibou": 11,
     "stock_ariana": 4,
     "prix": 380
