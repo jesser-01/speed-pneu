@@ -13,8 +13,8 @@
     "dimension": "155/70R13",
     "marque": "RADIAL",
     "reference": "RD155/70R13",
-    "stock_total": 2,
-    "stock_aouina": 1,
+    "stock_total": 1,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 1,
     "prix": 180
@@ -504,8 +504,8 @@
     "marque": "FULDA",
     "reference": "FL185/65R15",
     "stock_total": 126,
-    "stock_aouina": 8,
-    "stock_dibou": 107,
+    "stock_aouina": 7,
+    "stock_dibou": 108,
     "stock_ariana": 11,
     "prix": 245
   },
