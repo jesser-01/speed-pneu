@@ -523,8 +523,8 @@
     "dimension": "185/65R15",
     "marque": "GOODRIDE",
     "reference": "GR185/65R15",
-    "stock_total": 11,
-    "stock_aouina": 4,
+    "stock_total": 9,
+    "stock_aouina": 2,
     "stock_dibou": 3,
     "stock_ariana": 4,
     "prix": 230
@@ -583,8 +583,8 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 49,
-    "stock_aouina": 31,
+    "stock_total": 48,
+    "stock_aouina": 30,
     "stock_dibou": 16,
     "stock_ariana": 2,
     "prix": 225
@@ -663,8 +663,8 @@
     "dimension": "195/50R15",
     "marque": "WESTLAKE",
     "reference": "WL195/50R15",
-    "stock_total": 7,
-    "stock_aouina": 5,
+    "stock_total": 6,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 240
@@ -1673,8 +1673,8 @@
     "dimension": "225/45R17",
     "marque": "FULDA",
     "reference": "FL225/45R17",
-    "stock_total": 15,
-    "stock_aouina": 3,
+    "stock_total": 13,
+    "stock_aouina": 1,
     "stock_dibou": 8,
     "stock_ariana": 4,
     "prix": 350
