@@ -233,8 +233,8 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 36,
-    "stock_aouina": 3,
+    "stock_total": 35,
+    "stock_aouina": 2,
     "stock_dibou": 23,
     "stock_ariana": 10,
     "prix": 190
@@ -693,10 +693,10 @@
     "dimension": "195/55R16",
     "marque": "GOODYEAR",
     "reference": "GD195/55R16",
-    "stock_total": 5,
+    "stock_total": 4,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 0,
     "prix": 350
   },
   {
@@ -721,6 +721,16 @@
   },
   {
     "dimension": "195/55R16",
+    "marque": "LUFEN",
+    "reference": "LF195/55R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 300
+  },
+  {
+    "dimension": "195/55R16",
     "marque": "NEXEN",
     "reference": "NX195/55R16",
     "stock_total": 2,
@@ -733,8 +743,8 @@
     "dimension": "195/55R16",
     "marque": "RADIAL",
     "reference": "RD195/55R16",
-    "stock_total": 8,
-    "stock_aouina": 3,
+    "stock_total": 7,
+    "stock_aouina": 2,
     "stock_dibou": 4,
     "stock_ariana": 1,
     "prix": 250
@@ -1163,8 +1173,8 @@
     "dimension": "205/60R16",
     "marque": "LUFEN",
     "reference": "LF205/60R16",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 6,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 300
@@ -1497,6 +1507,16 @@
     "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 1,
+    "prix": 350
+  },
+  {
+    "dimension": "215/65R16",
+    "marque": "LUFEN",
+    "reference": "LF215/65R16",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
     "prix": 350
   },
   {
