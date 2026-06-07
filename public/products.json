@@ -163,8 +163,8 @@
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 19,
-    "stock_aouina": 6,
+    "stock_total": 23,
+    "stock_aouina": 10,
     "stock_dibou": 9,
     "stock_ariana": 4,
     "prix": 230
@@ -233,10 +233,10 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 35,
-    "stock_aouina": 2,
+    "stock_total": 33,
+    "stock_aouina": 1,
     "stock_dibou": 23,
-    "stock_ariana": 10,
+    "stock_ariana": 9,
     "prix": 190
   },
   {
@@ -443,8 +443,8 @@
     "dimension": "185/60R15",
     "marque": "RADIAL",
     "reference": "RD185/60R15",
-    "stock_total": 22,
-    "stock_aouina": 5,
+    "stock_total": 23,
+    "stock_aouina": 6,
     "stock_dibou": 15,
     "stock_ariana": 2,
     "prix": 230
@@ -503,8 +503,8 @@
     "dimension": "185/65R15",
     "marque": "DOUBLESTAR",
     "reference": "DS185/65R15",
-    "stock_total": 3,
-    "stock_aouina": 1,
+    "stock_total": 6,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 230
@@ -903,8 +903,8 @@
     "dimension": "205/45R17",
     "marque": "CONTINENTAL",
     "reference": "CT205/45R17",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 550
@@ -1253,10 +1253,10 @@
     "dimension": "215/45R17",
     "marque": "HANKOOK",
     "reference": "HK215/45R17",
-    "stock_total": 21,
+    "stock_total": 20,
     "stock_aouina": 4,
     "stock_dibou": 12,
-    "stock_ariana": 5,
+    "stock_ariana": 4,
     "prix": 400
   },
   {
@@ -1753,8 +1753,8 @@
     "dimension": "225/45R18",
     "marque": "GOODYEAR",
     "reference": "GD225/45R18",
-    "stock_total": 6,
-    "stock_aouina": 4,
+    "stock_total": 4,
+    "stock_aouina": 2,
     "stock_dibou": 2,
     "stock_ariana": 0,
     "prix": 550
@@ -1763,8 +1763,8 @@
     "dimension": "225/45R18",
     "marque": "HANKOOK",
     "reference": "HK225/45R18",
-    "stock_total": 0,
-    "stock_aouina": 0,
+    "stock_total": 4,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 450
@@ -1818,6 +1818,16 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 520
+  },
+  {
+    "dimension": "225/45R19",
+    "marque": "RADIAL",
+    "reference": "RD225/45R19",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
   },
   {
     "dimension": "225/50R17",
@@ -2040,11 +2050,21 @@
     "prix": 600
   },
   {
+    "dimension": "235/45R18",
+    "marque": "HANKOOK",
+    "reference": "HK235/45R18",
+    "stock_total": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 500
+  },
+  {
     "dimension": "235/50R18",
     "marque": "HANKOOK",
     "reference": "HK235/50R18",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 5,
+    "stock_aouina": 5,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 500
@@ -2173,8 +2193,8 @@
     "dimension": "235/60R18",
     "marque": "HANKOOK",
     "reference": "HK235/60R18",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 4,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 550
