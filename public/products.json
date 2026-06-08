@@ -17,7 +17,7 @@
     "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
-    "prix": 180
+    "prix": 200
   },
   {
     "dimension": "165/60R14",
@@ -117,7 +117,7 @@
     "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
-    "prix": 180
+    "prix": 200
   },
   {
     "dimension": "165/70R14",
@@ -533,8 +533,8 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 136,
-    "stock_aouina": 7,
+    "stock_total": 135,
+    "stock_aouina": 6,
     "stock_dibou": 124,
     "stock_ariana": 5,
     "prix": 270
@@ -1073,8 +1073,8 @@
     "dimension": "205/55R16",
     "marque": "SEMPERIT",
     "reference": "SP205/55R16",
-    "stock_total": 35,
-    "stock_aouina": 5,
+    "stock_total": 34,
+    "stock_aouina": 4,
     "stock_dibou": 22,
     "stock_ariana": 8,
     "prix": 250
