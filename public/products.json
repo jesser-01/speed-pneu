@@ -53,8 +53,8 @@
     "dimension": "165/65R14",
     "marque": "FULDA",
     "reference": "FL165/65R14",
-    "stock_total": 49,
-    "stock_aouina": 4,
+    "stock_total": 45,
+    "stock_aouina": 0,
     "stock_dibou": 41,
     "stock_ariana": 4,
     "prix": 190
@@ -163,8 +163,8 @@
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 23,
-    "stock_aouina": 6,
+    "stock_total": 21,
+    "stock_aouina": 4,
     "stock_dibou": 13,
     "stock_ariana": 4,
     "prix": 230
@@ -533,10 +533,10 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 132,
+    "stock_total": 131,
     "stock_aouina": 7,
     "stock_dibou": 117,
-    "stock_ariana": 8,
+    "stock_ariana": 7,
     "prix": 270
   },
   {
@@ -753,8 +753,8 @@
     "dimension": "195/60R16",
     "marque": "GOODYEAR",
     "reference": "GD195/60R16",
-    "stock_total": 24,
-    "stock_aouina": 4,
+    "stock_total": 22,
+    "stock_aouina": 2,
     "stock_dibou": 16,
     "stock_ariana": 4,
     "prix": 360
@@ -1940,6 +1940,16 @@
     "prix": 750
   },
   {
+    "dimension": "225/55R19",
+    "marque": "HANKOOK",
+    "reference": "HK225/55R19",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 700
+  },
+  {
     "dimension": "225/60R17",
     "marque": "GOODYEAR",
     "reference": "GD225/60R17",
@@ -2368,6 +2378,16 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 700
+  },
+  {
+    "dimension": "255/35R19",
+    "marque": "MATADOR",
+    "reference": "MT255/35R19",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 1
   },
   {
     "dimension": "255/35R19RF",
