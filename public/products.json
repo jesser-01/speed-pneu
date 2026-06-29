@@ -183,8 +183,8 @@
     "dimension": "175/65R14",
     "marque": "DOUBLESTAR",
     "reference": "DS175/65R14",
-    "stock_total": 10,
-    "stock_aouina": 10,
+    "stock_total": 8,
+    "stock_aouina": 8,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 180
@@ -233,8 +233,8 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 27,
-    "stock_aouina": 6,
+    "stock_total": 25,
+    "stock_aouina": 4,
     "stock_dibou": 15,
     "stock_ariana": 6,
     "prix": 190
@@ -833,10 +833,10 @@
     "dimension": "195/65R15",
     "marque": "SEMPERIT",
     "reference": "SP195/65R15",
-    "stock_total": 76,
+    "stock_total": 74,
     "stock_aouina": 2,
     "stock_dibou": 64,
-    "stock_ariana": 10,
+    "stock_ariana": 8,
     "prix": 250
   },
   {
@@ -1153,10 +1153,10 @@
     "dimension": "205/60R16",
     "marque": "GOODYEAR",
     "reference": "GD205/60R16",
-    "stock_total": 16,
+    "stock_total": 14,
     "stock_aouina": 4,
     "stock_dibou": 8,
-    "stock_ariana": 4,
+    "stock_ariana": 2,
     "prix": 380
   },
   {
@@ -1467,7 +1467,7 @@
     "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 2,
-    "prix": 330
+    "prix": 350
   },
   {
     "dimension": "215/60R16",
@@ -2263,10 +2263,10 @@
     "dimension": "245/40R18",
     "marque": "GOODYEAR",
     "reference": "GD245/40R18",
-    "stock_total": 4,
+    "stock_total": 3,
     "stock_aouina": 2,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 1,
     "prix": 620
   },
   {
