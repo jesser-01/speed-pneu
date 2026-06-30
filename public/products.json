@@ -1220,6 +1220,16 @@
     "prix": 380
   },
   {
+    "dimension": "205/70R15C",
+    "marque": "RADIAL",
+    "reference": "RD205/70R15C",
+    "stock_total": 2,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
+  },
+  {
     "dimension": "215/40R18",
     "marque": "GOODYEAR",
     "reference": "GD215/40R18",
@@ -1623,8 +1633,8 @@
     "dimension": "215/70R15C",
     "marque": "RADIAL",
     "reference": "RD215/70R15C",
-    "stock_total": 0,
-    "stock_aouina": 0,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 330
