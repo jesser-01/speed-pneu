@@ -53,8 +53,8 @@
     "dimension": "165/65R14",
     "marque": "FULDA",
     "reference": "FL165/65R14",
-    "stock_total": 45,
-    "stock_aouina": 8,
+    "stock_total": 44,
+    "stock_aouina": 7,
     "stock_dibou": 33,
     "stock_ariana": 4,
     "prix": 190
@@ -73,8 +73,8 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 21,
-    "stock_aouina": 2,
+    "stock_total": 19,
+    "stock_aouina": 0,
     "stock_dibou": 15,
     "stock_ariana": 4,
     "prix": 190
@@ -153,10 +153,10 @@
     "dimension": "175/60R15",
     "marque": "GOODYEAR",
     "reference": "GD175/60R15",
-    "stock_total": 13,
+    "stock_total": 12,
     "stock_aouina": 3,
     "stock_dibou": 6,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 350
   },
   {
@@ -243,10 +243,10 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 54,
+    "stock_total": 52,
     "stock_aouina": 13,
     "stock_dibou": 30,
-    "stock_ariana": 11,
+    "stock_ariana": 9,
     "prix": 180
   },
   {
@@ -443,10 +443,10 @@
     "dimension": "185/60R15",
     "marque": "RADIAL",
     "reference": "RD185/60R15",
-    "stock_total": 9,
+    "stock_total": 5,
     "stock_aouina": 2,
     "stock_dibou": 2,
-    "stock_ariana": 5,
+    "stock_ariana": 1,
     "prix": 230
   },
   {
@@ -513,8 +513,8 @@
     "dimension": "185/65R15",
     "marque": "FULDA",
     "reference": "FL185/65R15",
-    "stock_total": 102,
-    "stock_aouina": 2,
+    "stock_total": 101,
+    "stock_aouina": 1,
     "stock_dibou": 93,
     "stock_ariana": 7,
     "prix": 245
@@ -643,8 +643,8 @@
     "dimension": "195/50R15",
     "marque": "GOODYEAR",
     "reference": "GD195/50R15",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 290
@@ -663,8 +663,8 @@
     "dimension": "195/50R15",
     "marque": "WESTLAKE",
     "reference": "WL195/50R15",
-    "stock_total": 5,
-    "stock_aouina": 3,
+    "stock_total": 3,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 240
@@ -874,9 +874,9 @@
     "marque": "GOODRIDE",
     "reference": "GR195/75R16C",
     "stock_total": 4,
-    "stock_aouina": 3,
+    "stock_aouina": 1,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 3,
     "prix": 350
   },
   {
@@ -1033,10 +1033,10 @@
     "dimension": "205/55R16",
     "marque": "FULDA",
     "reference": "FL205/55R16",
-    "stock_total": 14,
+    "stock_total": 13,
     "stock_aouina": 6,
     "stock_dibou": 4,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 250
   },
   {
@@ -1163,9 +1163,9 @@
     "dimension": "205/60R16",
     "marque": "GOODYEAR",
     "reference": "GD205/60R16",
-    "stock_total": 14,
-    "stock_aouina": 4,
-    "stock_dibou": 8,
+    "stock_total": 10,
+    "stock_aouina": 5,
+    "stock_dibou": 3,
     "stock_ariana": 2,
     "prix": 380
   },
@@ -1593,8 +1593,8 @@
     "dimension": "215/70R15C",
     "marque": "BARUM",
     "reference": "BM215/70R15C",
-    "stock_total": 6,
-    "stock_aouina": 4,
+    "stock_total": 2,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 480
@@ -1653,8 +1653,8 @@
     "dimension": "225/40R18",
     "marque": "BARUM",
     "reference": "BM225/40R18",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 420
@@ -1813,8 +1813,8 @@
     "dimension": "225/45R18",
     "marque": "HANKOOK",
     "reference": "HK225/45R18",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 450
@@ -2253,8 +2253,8 @@
     "dimension": "235/60R18",
     "marque": "GOODYEAR",
     "reference": "GD235/60R18",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 680
