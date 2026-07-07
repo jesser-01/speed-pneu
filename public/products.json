@@ -54,8 +54,8 @@
     "marque": "FULDA",
     "reference": "FL165/65R14",
     "stock_total": 44,
-    "stock_aouina": 7,
-    "stock_dibou": 33,
+    "stock_aouina": 8,
+    "stock_dibou": 32,
     "stock_ariana": 4,
     "prix": 190
   },
@@ -74,8 +74,8 @@
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
     "stock_total": 19,
-    "stock_aouina": 0,
-    "stock_dibou": 15,
+    "stock_aouina": 1,
+    "stock_dibou": 14,
     "stock_ariana": 4,
     "prix": 190
   },
@@ -123,8 +123,8 @@
     "dimension": "165/70R14",
     "marque": "SEMPERIT",
     "reference": "SP165/70R14",
-    "stock_total": 9,
-    "stock_aouina": 4,
+    "stock_total": 8,
+    "stock_aouina": 3,
     "stock_dibou": 2,
     "stock_ariana": 3,
     "prix": 240
@@ -154,19 +154,19 @@
     "marque": "GOODYEAR",
     "reference": "GD175/60R15",
     "stock_total": 12,
-    "stock_aouina": 3,
-    "stock_dibou": 6,
-    "stock_ariana": 3,
+    "stock_aouina": 4,
+    "stock_dibou": 4,
+    "stock_ariana": 4,
     "prix": 350
   },
   {
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 17,
+    "stock_total": 16,
     "stock_aouina": 4,
     "stock_dibou": 9,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 230
   },
   {
@@ -203,10 +203,10 @@
     "dimension": "175/65R14",
     "marque": "GOODYEAR",
     "reference": "GD175/65R14",
-    "stock_total": 35,
+    "stock_total": 34,
     "stock_aouina": 6,
     "stock_dibou": 25,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 220
   },
   {
@@ -233,9 +233,9 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 22,
-    "stock_aouina": 2,
-    "stock_dibou": 15,
+    "stock_total": 21,
+    "stock_aouina": 5,
+    "stock_dibou": 11,
     "stock_ariana": 5,
     "prix": 190
   },
@@ -243,8 +243,8 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 52,
-    "stock_aouina": 13,
+    "stock_total": 50,
+    "stock_aouina": 11,
     "stock_dibou": 30,
     "stock_ariana": 9,
     "prix": 180
@@ -343,8 +343,8 @@
     "dimension": "175/70R14",
     "marque": "WESTLAKE",
     "reference": "WL175/70R14",
-    "stock_total": 14,
-    "stock_aouina": 10,
+    "stock_total": 10,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 200
@@ -404,8 +404,8 @@
     "marque": "GOODYEAR",
     "reference": "GD185/60R14",
     "stock_total": 10,
-    "stock_aouina": 0,
-    "stock_dibou": 6,
+    "stock_aouina": 4,
+    "stock_dibou": 2,
     "stock_ariana": 4,
     "prix": 230
   },
@@ -445,8 +445,8 @@
     "reference": "RD185/60R15",
     "stock_total": 5,
     "stock_aouina": 2,
-    "stock_dibou": 2,
-    "stock_ariana": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 3,
     "prix": 230
   },
   {
@@ -514,8 +514,8 @@
     "marque": "FULDA",
     "reference": "FL185/65R15",
     "stock_total": 101,
-    "stock_aouina": 1,
-    "stock_dibou": 93,
+    "stock_aouina": 6,
+    "stock_dibou": 88,
     "stock_ariana": 7,
     "prix": 245
   },
@@ -654,8 +654,8 @@
     "marque": "SEMPERIT",
     "reference": "SP195/50R15",
     "stock_total": 6,
-    "stock_aouina": 2,
-    "stock_dibou": 1,
+    "stock_aouina": 3,
+    "stock_dibou": 0,
     "stock_ariana": 3,
     "prix": 260
   },
@@ -873,10 +873,10 @@
     "dimension": "195/75R16C",
     "marque": "GOODRIDE",
     "reference": "GR195/75R16C",
-    "stock_total": 4,
+    "stock_total": 2,
     "stock_aouina": 1,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 1,
     "prix": 350
   },
   {
@@ -913,10 +913,10 @@
     "dimension": "205/45R17",
     "marque": "FULDA",
     "reference": "FL205/45R17",
-    "stock_total": 2,
+    "stock_total": 0,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 0,
     "prix": 380
   },
   {
@@ -1035,8 +1035,8 @@
     "reference": "FL205/55R16",
     "stock_total": 13,
     "stock_aouina": 6,
-    "stock_dibou": 4,
-    "stock_ariana": 3,
+    "stock_dibou": 3,
+    "stock_ariana": 4,
     "prix": 250
   },
   {
@@ -1085,8 +1085,8 @@
     "reference": "SP205/55R16",
     "stock_total": 19,
     "stock_aouina": 10,
-    "stock_dibou": 8,
-    "stock_ariana": 1,
+    "stock_dibou": 5,
+    "stock_ariana": 4,
     "prix": 250
   },
   {
@@ -1104,8 +1104,8 @@
     "marque": "GOODYEAR",
     "reference": "GD205/55R17",
     "stock_total": 8,
-    "stock_aouina": 0,
-    "stock_dibou": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 450
   },
@@ -1165,8 +1165,8 @@
     "reference": "GD205/60R16",
     "stock_total": 10,
     "stock_aouina": 5,
-    "stock_dibou": 3,
-    "stock_ariana": 2,
+    "stock_dibou": 1,
+    "stock_ariana": 4,
     "prix": 380
   },
   {
@@ -1423,8 +1423,8 @@
     "dimension": "215/55R17",
     "marque": "BRIDGESTONE",
     "reference": "BR215/55R17",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 480
@@ -1765,8 +1765,8 @@
     "reference": "GD225/45R17",
     "stock_total": 42,
     "stock_aouina": 6,
-    "stock_dibou": 36,
-    "stock_ariana": 0,
+    "stock_dibou": 32,
+    "stock_ariana": 4,
     "prix": 380
   },
   {
@@ -1903,8 +1903,8 @@
     "dimension": "225/50R17",
     "marque": "HANKOOK",
     "reference": "HK225/50R17",
-    "stock_total": 7,
-    "stock_aouina": 7,
+    "stock_total": 6,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
@@ -2433,8 +2433,8 @@
     "dimension": "255/35R19",
     "marque": "DUNLOP",
     "reference": "DL255/35R19",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 700
