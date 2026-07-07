@@ -123,10 +123,10 @@
     "dimension": "165/70R14",
     "marque": "SEMPERIT",
     "reference": "SP165/70R14",
-    "stock_total": 8,
-    "stock_aouina": 3,
-    "stock_dibou": 2,
-    "stock_ariana": 3,
+    "stock_total": 6,
+    "stock_aouina": 2,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
     "prix": 240
   },
   {
@@ -153,20 +153,20 @@
     "dimension": "175/60R15",
     "marque": "GOODYEAR",
     "reference": "GD175/60R15",
-    "stock_total": 12,
+    "stock_total": 11,
     "stock_aouina": 4,
     "stock_dibou": 4,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 350
   },
   {
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 16,
+    "stock_total": 15,
     "stock_aouina": 4,
     "stock_dibou": 9,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 230
   },
   {
@@ -233,10 +233,10 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 21,
+    "stock_total": 20,
     "stock_aouina": 5,
     "stock_dibou": 11,
-    "stock_ariana": 5,
+    "stock_ariana": 4,
     "prix": 190
   },
   {
@@ -384,9 +384,9 @@
     "marque": "RADIAL",
     "reference": "RD185/55R15",
     "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_aouina": 3,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 1,
     "prix": 270
   },
   {
@@ -504,9 +504,9 @@
     "marque": "DOUBLESTAR",
     "reference": "DS185/65R15",
     "stock_total": 6,
-    "stock_aouina": 4,
+    "stock_aouina": 2,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 4,
     "prix": 230
   },
   {
@@ -593,20 +593,20 @@
     "dimension": "185/70R14",
     "marque": "RADIAL",
     "reference": "RD185/70R14",
-    "stock_total": 5,
+    "stock_total": 4,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 5,
+    "stock_ariana": 4,
     "prix": 230
   },
   {
     "dimension": "185/70R14",
     "marque": "SEMPERIT",
     "reference": "SP185/70R14",
-    "stock_total": 12,
+    "stock_total": 11,
     "stock_aouina": 4,
     "stock_dibou": 3,
-    "stock_ariana": 5,
+    "stock_ariana": 4,
     "prix": 280
   },
   {
@@ -824,9 +824,9 @@
     "marque": "RADIAL",
     "reference": "RD195/65R15",
     "stock_total": 18,
-    "stock_aouina": 12,
+    "stock_aouina": 11,
     "stock_dibou": 2,
-    "stock_ariana": 4,
+    "stock_ariana": 5,
     "prix": 230
   },
   {
