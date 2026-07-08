@@ -73,8 +73,8 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 19,
-    "stock_aouina": 1,
+    "stock_total": 18,
+    "stock_aouina": 0,
     "stock_dibou": 14,
     "stock_ariana": 4,
     "prix": 190
@@ -124,9 +124,9 @@
     "marque": "SEMPERIT",
     "reference": "SP165/70R14",
     "stock_total": 6,
-    "stock_aouina": 2,
+    "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 4,
+    "stock_ariana": 2,
     "prix": 240
   },
   {
@@ -183,8 +183,8 @@
     "dimension": "175/65R14",
     "marque": "DOUBLESTAR",
     "reference": "DS175/65R14",
-    "stock_total": 8,
-    "stock_aouina": 8,
+    "stock_total": 7,
+    "stock_aouina": 7,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 180
@@ -654,9 +654,9 @@
     "marque": "SEMPERIT",
     "reference": "SP195/50R15",
     "stock_total": 6,
-    "stock_aouina": 3,
+    "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 260
   },
   {
@@ -1064,9 +1064,9 @@
     "marque": "HANKOOK",
     "reference": "HK205/55R16",
     "stock_total": 3,
-    "stock_aouina": 0,
+    "stock_aouina": 3,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 0,
     "prix": 270
   },
   {
@@ -1174,9 +1174,9 @@
     "marque": "HANKOOK",
     "reference": "HK205/60R16",
     "stock_total": 3,
-    "stock_aouina": 0,
+    "stock_aouina": 1,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 320
   },
   {
