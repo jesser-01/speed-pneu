@@ -23,8 +23,8 @@
     "dimension": "165/60R14",
     "marque": "GOODYEAR",
     "reference": "GD165/60R14",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 230
@@ -403,8 +403,8 @@
     "dimension": "185/60R14",
     "marque": "GOODYEAR",
     "reference": "GD185/60R14",
-    "stock_total": 10,
-    "stock_aouina": 6,
+    "stock_total": 8,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 230
