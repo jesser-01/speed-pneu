@@ -74,8 +74,8 @@
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
     "stock_total": 18,
-    "stock_aouina": 0,
-    "stock_dibou": 14,
+    "stock_aouina": 5,
+    "stock_dibou": 9,
     "stock_ariana": 4,
     "prix": 190
   },
@@ -253,8 +253,8 @@
     "dimension": "175/65R15",
     "marque": "DOUBLESTAR",
     "reference": "DS175/65R15",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 200
@@ -343,8 +343,8 @@
     "dimension": "175/70R14",
     "marque": "WESTLAKE",
     "reference": "WL175/70R14",
-    "stock_total": 10,
-    "stock_aouina": 6,
+    "stock_total": 9,
+    "stock_aouina": 5,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 200
@@ -584,8 +584,8 @@
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
     "stock_total": 30,
-    "stock_aouina": 15,
-    "stock_dibou": 15,
+    "stock_aouina": 0,
+    "stock_dibou": 30,
     "stock_ariana": 0,
     "prix": 225
   },
