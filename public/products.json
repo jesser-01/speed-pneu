@@ -163,8 +163,8 @@
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 13,
-    "stock_aouina": 3,
+    "stock_total": 12,
+    "stock_aouina": 2,
     "stock_dibou": 9,
     "stock_ariana": 1,
     "prix": 230
@@ -513,8 +513,8 @@
     "dimension": "185/65R15",
     "marque": "FULDA",
     "reference": "FL185/65R15",
-    "stock_total": 101,
-    "stock_aouina": 6,
+    "stock_total": 99,
+    "stock_aouina": 4,
     "stock_dibou": 88,
     "stock_ariana": 7,
     "prix": 245
@@ -743,8 +743,8 @@
     "dimension": "195/55R16",
     "marque": "RADIAL",
     "reference": "RD195/55R16",
-    "stock_total": 6,
-    "stock_aouina": 2,
+    "stock_total": 5,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 250
@@ -823,10 +823,10 @@
     "dimension": "195/65R15",
     "marque": "RADIAL",
     "reference": "RD195/65R15",
-    "stock_total": 18,
+    "stock_total": 17,
     "stock_aouina": 11,
     "stock_dibou": 2,
-    "stock_ariana": 5,
+    "stock_ariana": 4,
     "prix": 230
   },
   {
@@ -853,8 +853,8 @@
     "dimension": "195/70R15C",
     "marque": "LUFEN",
     "reference": "LF195/70R15C",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 300
@@ -1143,8 +1143,8 @@
     "dimension": "205/60R16",
     "marque": "DOUBLESTAR",
     "reference": "DS205/60R16",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 6,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 260
@@ -1583,8 +1583,8 @@
     "dimension": "215/70R15",
     "marque": "RADIAL",
     "reference": "RD215/70R15",
-    "stock_total": 2,
-    "stock_aouina": 0,
+    "stock_total": 1,
+    "stock_aouina": -1,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 350
@@ -1753,8 +1753,8 @@
     "dimension": "225/45R17",
     "marque": "FULDA",
     "reference": "FL225/45R17",
-    "stock_total": 11,
-    "stock_aouina": 4,
+    "stock_total": 9,
+    "stock_aouina": 2,
     "stock_dibou": 3,
     "stock_ariana": 4,
     "prix": 350
@@ -2133,8 +2133,8 @@
     "dimension": "235/50R18",
     "marque": "HANKOOK",
     "reference": "HK235/50R18",
-    "stock_total": 5,
-    "stock_aouina": 5,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 500
@@ -2363,10 +2363,10 @@
     "dimension": "245/45R18",
     "marque": "LASSA",
     "reference": "LS245/45R18",
-    "stock_total": 2,
+    "stock_total": 1,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 1,
     "prix": 470
   },
   {
