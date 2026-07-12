@@ -383,8 +383,8 @@
     "dimension": "185/55R15",
     "marque": "RADIAL",
     "reference": "RD185/55R15",
-    "stock_total": 4,
-    "stock_aouina": 3,
+    "stock_total": 5,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 1,
     "prix": 270
@@ -503,8 +503,8 @@
     "dimension": "185/65R15",
     "marque": "DOUBLESTAR",
     "reference": "DS185/65R15",
-    "stock_total": 6,
-    "stock_aouina": 2,
+    "stock_total": 12,
+    "stock_aouina": 8,
     "stock_dibou": 0,
     "stock_ariana": 4,
     "prix": 230
@@ -583,8 +583,8 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 30,
-    "stock_aouina": 0,
+    "stock_total": 32,
+    "stock_aouina": 2,
     "stock_dibou": 30,
     "stock_ariana": 0,
     "prix": 225
@@ -1173,8 +1173,8 @@
     "dimension": "205/60R16",
     "marque": "HANKOOK",
     "reference": "HK205/60R16",
-    "stock_total": 3,
-    "stock_aouina": 1,
+    "stock_total": 6,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 320
@@ -1283,8 +1283,8 @@
     "dimension": "215/45R17",
     "marque": "HANKOOK",
     "reference": "HK215/45R17",
-    "stock_total": 20,
-    "stock_aouina": 2,
+    "stock_total": 22,
+    "stock_aouina": 4,
     "stock_dibou": 14,
     "stock_ariana": 4,
     "prix": 400
@@ -1363,8 +1363,8 @@
     "dimension": "215/50R17",
     "marque": "HANKOOK",
     "reference": "HK215/50R17",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 5,
+    "stock_aouina": 5,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
@@ -1533,10 +1533,10 @@
     "dimension": "215/65R16",
     "marque": "HANKOOK",
     "reference": "HK215/65R16",
-    "stock_total": 1,
+    "stock_total": 0,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 0,
     "prix": 350
   },
   {
