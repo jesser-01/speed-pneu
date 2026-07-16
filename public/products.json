@@ -124,8 +124,8 @@
     "marque": "SEMPERIT",
     "reference": "SP165/70R14",
     "stock_total": 6,
-    "stock_aouina": 4,
-    "stock_dibou": 0,
+    "stock_aouina": 5,
+    "stock_dibou": -1,
     "stock_ariana": 2,
     "prix": 240
   },
@@ -203,9 +203,9 @@
     "dimension": "175/65R14",
     "marque": "GOODYEAR",
     "reference": "GD175/65R14",
-    "stock_total": 16,
-    "stock_aouina": 6,
-    "stock_dibou": 6,
+    "stock_total": 11,
+    "stock_aouina": 5,
+    "stock_dibou": 2,
     "stock_ariana": 4,
     "prix": 220
   },
@@ -533,9 +533,9 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 114,
-    "stock_aouina": 2,
-    "stock_dibou": 109,
+    "stock_total": 110,
+    "stock_aouina": 12,
+    "stock_dibou": 95,
     "stock_ariana": 3,
     "prix": 270
   },
@@ -833,8 +833,8 @@
     "dimension": "195/65R15",
     "marque": "SEMPERIT",
     "reference": "SP195/65R15",
-    "stock_total": 67,
-    "stock_aouina": 4,
+    "stock_total": 65,
+    "stock_aouina": 2,
     "stock_dibou": 56,
     "stock_ariana": 7,
     "prix": 250
@@ -877,6 +877,16 @@
     "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 1,
+    "prix": 350
+  },
+  {
+    "dimension": "195/75R16C",
+    "marque": "RADIAL",
+    "reference": "RD195/75R16C",
+    "stock_total": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
     "prix": 350
   },
   {
@@ -1083,10 +1093,10 @@
     "dimension": "205/55R16",
     "marque": "SEMPERIT",
     "reference": "SP205/55R16",
-    "stock_total": 15,
-    "stock_aouina": 9,
+    "stock_total": 10,
+    "stock_aouina": 8,
     "stock_dibou": 0,
-    "stock_ariana": 6,
+    "stock_ariana": 2,
     "prix": 250
   },
   {
@@ -1418,6 +1428,16 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 350
+  },
+  {
+    "dimension": "215/55R16",
+    "marque": "RADIAL",
+    "reference": "RD215/55R16",
+    "stock_total": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 280
   },
   {
     "dimension": "215/55R17",
@@ -1764,8 +1784,8 @@
     "marque": "GOODYEAR",
     "reference": "GD225/45R17",
     "stock_total": 38,
-    "stock_aouina": 2,
-    "stock_dibou": 32,
+    "stock_aouina": 4,
+    "stock_dibou": 30,
     "stock_ariana": 4,
     "prix": 380
   },
@@ -1778,6 +1798,16 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 380
+  },
+  {
+    "dimension": "225/45R17",
+    "marque": "LAUFFEN",
+    "reference": "LF225/45R17",
+    "stock_total": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
   },
   {
     "dimension": "225/45R17",
@@ -2000,6 +2030,16 @@
     "prix": 700
   },
   {
+    "dimension": "225/60R16",
+    "marque": "RADIAL",
+    "reference": "RD225/60R16",
+    "stock_total": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 350
+  },
+  {
     "dimension": "225/60R17",
     "marque": "GOODYEAR",
     "reference": "GD225/60R17",
@@ -2173,8 +2213,8 @@
     "dimension": "235/55R18",
     "marque": "HANKOOK",
     "reference": "HK235/55R18",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 3,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 480
@@ -2223,9 +2263,9 @@
     "dimension": "235/55R19",
     "marque": "RADIAL",
     "reference": "RD235/55R19",
-    "stock_total": 2,
-    "stock_aouina": 0,
-    "stock_dibou": 2,
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 500
   },
