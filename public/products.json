@@ -525,8 +525,8 @@
     "reference": "GR185/65R15",
     "stock_total": 8,
     "stock_aouina": 4,
-    "stock_dibou": 1,
-    "stock_ariana": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
     "prix": 230
   },
   {
@@ -585,8 +585,8 @@
     "reference": "WL185/65R15",
     "stock_total": 30,
     "stock_aouina": 0,
-    "stock_dibou": 30,
-    "stock_ariana": 0,
+    "stock_dibou": 26,
+    "stock_ariana": 4,
     "prix": 225
   },
   {
@@ -835,8 +835,8 @@
     "reference": "SP195/65R15",
     "stock_total": 61,
     "stock_aouina": 2,
-    "stock_dibou": 54,
-    "stock_ariana": 5,
+    "stock_dibou": 52,
+    "stock_ariana": 7,
     "prix": 250
   },
   {
@@ -1004,9 +1004,9 @@
     "marque": "RADIAL",
     "reference": "RD205/50R17",
     "stock_total": 5,
-    "stock_aouina": 5,
+    "stock_aouina": 3,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 2,
     "prix": 300
   },
   {
@@ -1154,9 +1154,9 @@
     "marque": "DOUBLESTAR",
     "reference": "DS205/60R16",
     "stock_total": 16,
-    "stock_aouina": 16,
+    "stock_aouina": 12,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 260
   },
   {
@@ -1434,9 +1434,9 @@
     "marque": "RADIAL",
     "reference": "RD215/55R16",
     "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 280
   },
   {
@@ -1795,8 +1795,8 @@
     "reference": "GD225/45R17",
     "stock_total": 36,
     "stock_aouina": 4,
-    "stock_dibou": 30,
-    "stock_ariana": 2,
+    "stock_dibou": 28,
+    "stock_ariana": 4,
     "prix": 380
   },
   {
@@ -1895,8 +1895,8 @@
     "reference": "GD225/45R19",
     "stock_total": 8,
     "stock_aouina": 4,
-    "stock_dibou": 4,
-    "stock_ariana": 0,
+    "stock_dibou": 2,
+    "stock_ariana": 2,
     "prix": 750
   },
   {
@@ -1944,9 +1944,9 @@
     "marque": "HANKOOK",
     "reference": "HK225/50R17",
     "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 400
   },
   {
@@ -2074,9 +2074,9 @@
     "marque": "HANKOOK",
     "reference": "HK225/60R17",
     "stock_total": 11,
-    "stock_aouina": 13,
+    "stock_aouina": 9,
     "stock_dibou": 0,
-    "stock_ariana": -2,
+    "stock_ariana": 2,
     "prix": 425
   },
   {
@@ -2604,9 +2604,9 @@
     "marque": "DUNLOP",
     "reference": "DL255/70R15",
     "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 2,
     "prix": 550
   },
   {
@@ -2664,9 +2664,9 @@
     "marque": "RADIAL",
     "reference": "RD265/70R16",
     "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 490
   },
   {
