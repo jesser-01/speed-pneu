@@ -13,10 +13,10 @@
     "dimension": "155/70R13",
     "marque": "AMINE",
     "reference": "AM155/70R13",
-    "stock_total": 6,
+    "stock_total": 24,
     "stock_aouina": 6,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 18,
     "prix": 180
   },
   {
@@ -103,10 +103,10 @@
     "dimension": "165/70R13",
     "marque": "AMINE",
     "reference": "AM165/70R13",
-    "stock_total": 10,
+    "stock_total": 25,
     "stock_aouina": 10,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 15,
     "prix": 190
   },
   {
@@ -303,10 +303,10 @@
     "dimension": "175/70R14",
     "marque": "AMINE",
     "reference": "AM175/70R14",
-    "stock_total": 9,
+    "stock_total": 19,
     "stock_aouina": 9,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 10,
     "prix": 200
   },
   {
@@ -443,10 +443,10 @@
     "dimension": "185/60R15",
     "marque": "AMINE",
     "reference": "AM185/60R15",
-    "stock_total": 4,
+    "stock_total": 13,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 9,
     "prix": 210
   },
   {
@@ -633,10 +633,10 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 30,
+    "stock_total": 34,
     "stock_aouina": 0,
     "stock_dibou": 26,
-    "stock_ariana": 4,
+    "stock_ariana": 8,
     "prix": 225
   },
   {
@@ -673,10 +673,10 @@
     "dimension": "185/80R14C",
     "marque": "AMINE",
     "reference": "AM185/80R14C",
-    "stock_total": 10,
+    "stock_total": 14,
     "stock_aouina": 10,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 240
   },
   {
@@ -703,10 +703,10 @@
     "dimension": "195/50R15",
     "marque": "AMINE",
     "reference": "AM195/50R15",
-    "stock_total": 8,
+    "stock_total": 16,
     "stock_aouina": 8,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 8,
     "prix": 210
   },
   {
@@ -747,6 +747,16 @@
     "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
+    "prix": 350
+  },
+  {
+    "dimension": "195/50R16",
+    "marque": "LUFEN",
+    "reference": "LF195/50R16",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
     "prix": 350
   },
   {
@@ -933,10 +943,10 @@
     "dimension": "195/65R15",
     "marque": "WESTLAKE",
     "reference": "WL195/65R15",
-    "stock_total": 4,
+    "stock_total": 14,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 10,
     "prix": 240
   },
   {
@@ -1263,10 +1273,10 @@
     "dimension": "205/60R16",
     "marque": "BRIDGESTONE",
     "reference": "BR205/60R16",
-    "stock_total": 4,
+    "stock_total": 8,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 370
   },
   {
@@ -1333,10 +1343,10 @@
     "dimension": "205/60R16",
     "marque": "RADIAL",
     "reference": "RD205/60R16",
-    "stock_total": 6,
+    "stock_total": 9,
     "stock_aouina": 6,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 3,
     "prix": 260
   },
   {
@@ -1693,10 +1703,10 @@
     "dimension": "215/65R16",
     "marque": "BRIDGESTONE",
     "reference": "BR215/65R16",
-    "stock_total": 4,
+    "stock_total": 8,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 420
   },
   {
@@ -1741,6 +1751,16 @@
   },
   {
     "dimension": "215/65R17",
+    "marque": "HANKOOK",
+    "reference": "HK215/65R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 480
+  },
+  {
+    "dimension": "215/65R17",
     "marque": "MICHELIN",
     "reference": "MC215/65R17",
     "stock_total": 1,
@@ -1765,6 +1785,16 @@
     "reference": "RD215/70R15",
     "stock_total": 2,
     "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 2,
+    "prix": 350
+  },
+  {
+    "dimension": "215/70R15C",
+    "marque": "AMINE",
+    "reference": "AM215/70R15C",
+    "stock_total": 8,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 350
@@ -1833,10 +1863,10 @@
     "dimension": "215/70R15C",
     "marque": "WESTLAKE",
     "reference": "WL215/70R15C",
-    "stock_total": 6,
+    "stock_total": 8,
     "stock_aouina": 3,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 5,
     "prix": 380
   },
   {
@@ -1941,6 +1971,16 @@
   },
   {
     "dimension": "225/45R17",
+    "marque": "BRIDGESTONE",
+    "reference": "BR225/45R17",
+    "stock_total": 4,
+    "stock_aouina": 4,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
+  },
+  {
+    "dimension": "225/45R17",
     "marque": "CONTINENTAL",
     "reference": "CT225/45R17",
     "stock_total": 1,
@@ -2003,10 +2043,10 @@
     "dimension": "225/45R17",
     "marque": "WESTLAKE",
     "reference": "WL225/45R17",
-    "stock_total": 4,
+    "stock_total": 8,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 330
   },
   {
@@ -2164,9 +2204,9 @@
     "marque": "BRIDGESTONE",
     "reference": "BR225/55R17",
     "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 2,
     "prix": 480
   },
   {
@@ -2174,9 +2214,9 @@
     "marque": "HANKOOK",
     "reference": "HK225/55R17",
     "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 2,
     "prix": 430
   },
   {
