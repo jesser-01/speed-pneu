@@ -174,9 +174,9 @@
     "marque": "RADIAL",
     "reference": "RD175/60R15",
     "stock_total": 8,
-    "stock_aouina": 1,
+    "stock_aouina": 3,
     "stock_dibou": 5,
-    "stock_ariana": 2,
+    "stock_ariana": 0,
     "prix": 230
   },
   {
@@ -573,8 +573,8 @@
     "dimension": "185/65R15",
     "marque": "GOODRIDE",
     "reference": "GR185/65R15",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 6,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 230
