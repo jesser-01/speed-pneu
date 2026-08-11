@@ -64,8 +64,8 @@
     "marque": "FULDA",
     "reference": "FL165/65R14",
     "stock_total": 35,
-    "stock_aouina": 1,
-    "stock_dibou": 30,
+    "stock_aouina": 3,
+    "stock_dibou": 28,
     "stock_ariana": 4,
     "prix": 190
   },
@@ -253,9 +253,9 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 40,
-    "stock_aouina": 6,
-    "stock_dibou": 26,
+    "stock_total": 39,
+    "stock_aouina": 9,
+    "stock_dibou": 22,
     "stock_ariana": 8,
     "prix": 180
   },
@@ -454,17 +454,17 @@
     "marque": "GOODYEAR",
     "reference": "GD185/60R15",
     "stock_total": 40,
-    "stock_aouina": 40,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 36,
+    "stock_ariana": 4,
     "prix": 300
   },
   {
     "dimension": "185/60R15",
     "marque": "HANKOOK",
     "reference": "HK185/60R15",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 3,
+    "stock_aouina": 3,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 290
@@ -643,8 +643,8 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 54,
-    "stock_aouina": 20,
+    "stock_total": 50,
+    "stock_aouina": 16,
     "stock_dibou": 26,
     "stock_ariana": 8,
     "prix": 225
@@ -724,9 +724,9 @@
     "marque": "GOODYEAR",
     "reference": "GD195/50R15",
     "stock_total": 80,
-    "stock_aouina": 80,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 76,
+    "stock_ariana": 4,
     "prix": 290
   },
   {
@@ -864,8 +864,8 @@
     "marque": "GOODYEAR",
     "reference": "GD195/60R16",
     "stock_total": 21,
-    "stock_aouina": 3,
-    "stock_dibou": 14,
+    "stock_aouina": 4,
+    "stock_dibou": 13,
     "stock_ariana": 4,
     "prix": 360
   },
@@ -1194,9 +1194,9 @@
     "marque": "GOODYEAR",
     "reference": "GD205/55R16",
     "stock_total": 80,
-    "stock_aouina": 80,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 76,
+    "stock_ariana": 4,
     "prix": 290
   },
   {
@@ -1303,8 +1303,8 @@
     "dimension": "205/60R16",
     "marque": "DOUBLESTAR",
     "reference": "DS205/60R16",
-    "stock_total": 6,
-    "stock_aouina": 4,
+    "stock_total": 2,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 260
@@ -1704,9 +1704,9 @@
     "marque": "GOODYEAR",
     "reference": "GD215/60R17",
     "stock_total": 8,
-    "stock_aouina": 8,
-    "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_aouina": 0,
+    "stock_dibou": 4,
+    "stock_ariana": 4,
     "prix": 520
   },
   {
@@ -1883,8 +1883,8 @@
     "dimension": "215/70R15C",
     "marque": "RADIAL",
     "reference": "RD215/70R15C",
-    "stock_total": 3,
-    "stock_aouina": 3,
+    "stock_total": 2,
+    "stock_aouina": 2,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 380
@@ -1893,8 +1893,8 @@
     "dimension": "215/70R15C",
     "marque": "WESTLAKE",
     "reference": "WL215/70R15C",
-    "stock_total": 8,
-    "stock_aouina": 3,
+    "stock_total": 7,
+    "stock_aouina": 2,
     "stock_dibou": 0,
     "stock_ariana": 5,
     "prix": 380
@@ -2194,8 +2194,8 @@
     "marque": "GOODYEAR",
     "reference": "GD225/50R17",
     "stock_total": 22,
-    "stock_aouina": 21,
-    "stock_dibou": 0,
+    "stock_aouina": 1,
+    "stock_dibou": 20,
     "stock_ariana": 1,
     "prix": 480
   },
@@ -2484,9 +2484,9 @@
     "marque": "HANKOOK",
     "reference": "HK235/50R18",
     "stock_total": 5,
-    "stock_aouina": 5,
+    "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 1,
     "prix": 500
   },
   {
