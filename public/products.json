@@ -103,10 +103,10 @@
     "dimension": "165/70R13",
     "marque": "AMINE",
     "reference": "AM165/70R13",
-    "stock_total": 21,
-    "stock_aouina": 8,
+    "stock_total": 19,
+    "stock_aouina": 7,
     "stock_dibou": 0,
-    "stock_ariana": 13,
+    "stock_ariana": 12,
     "prix": 190
   },
   {
@@ -135,8 +135,8 @@
     "reference": "SP165/70R14",
     "stock_total": 4,
     "stock_aouina": 5,
-    "stock_dibou": -1,
-    "stock_ariana": 0,
+    "stock_dibou": -2,
+    "stock_ariana": 1,
     "prix": 240
   },
   {
@@ -253,10 +253,10 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 39,
-    "stock_aouina": 9,
-    "stock_dibou": 22,
-    "stock_ariana": 8,
+    "stock_total": 37,
+    "stock_aouina": 13,
+    "stock_dibou": 18,
+    "stock_ariana": 6,
     "prix": 180
   },
   {
@@ -363,8 +363,8 @@
     "dimension": "175/70R14",
     "marque": "WESTLAKE",
     "reference": "WL175/70R14",
-    "stock_total": 21,
-    "stock_aouina": 7,
+    "stock_total": 25,
+    "stock_aouina": 11,
     "stock_dibou": 0,
     "stock_ariana": 14,
     "prix": 200
@@ -454,8 +454,8 @@
     "marque": "GOODYEAR",
     "reference": "GD185/60R15",
     "stock_total": 40,
-    "stock_aouina": 0,
-    "stock_dibou": 36,
+    "stock_aouina": 4,
+    "stock_dibou": 32,
     "stock_ariana": 4,
     "prix": 300
   },
@@ -634,8 +634,8 @@
     "marque": "SEMPERIT",
     "reference": "SP185/65R15",
     "stock_total": 18,
-    "stock_aouina": 2,
-    "stock_dibou": 16,
+    "stock_aouina": 4,
+    "stock_dibou": 14,
     "stock_ariana": 0,
     "prix": 250
   },
@@ -643,9 +643,9 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 50,
+    "stock_total": 48,
     "stock_aouina": 16,
-    "stock_dibou": 26,
+    "stock_dibou": 24,
     "stock_ariana": 8,
     "prix": 225
   },
@@ -663,10 +663,10 @@
     "dimension": "185/70R14",
     "marque": "SEMPERIT",
     "reference": "SP185/70R14",
-    "stock_total": 10,
+    "stock_total": 8,
     "stock_aouina": 4,
-    "stock_dibou": 3,
-    "stock_ariana": 3,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
     "prix": 280
   },
   {
@@ -724,8 +724,8 @@
     "marque": "GOODYEAR",
     "reference": "GD195/50R15",
     "stock_total": 80,
-    "stock_aouina": 0,
-    "stock_dibou": 76,
+    "stock_aouina": 4,
+    "stock_dibou": 72,
     "stock_ariana": 4,
     "prix": 290
   },
@@ -794,8 +794,8 @@
     "marque": "GOODYEAR",
     "reference": "GD195/55R16",
     "stock_total": 30,
-    "stock_aouina": 30,
-    "stock_dibou": 0,
+    "stock_aouina": 4,
+    "stock_dibou": 26,
     "stock_ariana": 0,
     "prix": 365
   },
@@ -893,10 +893,10 @@
     "dimension": "195/65R15",
     "marque": "GOODYEAR",
     "reference": "GD195/65R15",
-    "stock_total": 33,
+    "stock_total": 29,
     "stock_aouina": 5,
     "stock_dibou": 21,
-    "stock_ariana": 7,
+    "stock_ariana": 3,
     "prix": 275
   },
   {
@@ -944,8 +944,8 @@
     "marque": "SEMPERIT",
     "reference": "SP195/65R15",
     "stock_total": 57,
-    "stock_aouina": 1,
-    "stock_dibou": 52,
+    "stock_aouina": 2,
+    "stock_dibou": 51,
     "stock_ariana": 4,
     "prix": 250
   },
@@ -1003,10 +1003,10 @@
     "dimension": "195/75R16C",
     "marque": "RADIAL",
     "reference": "RD195/75R16C",
-    "stock_total": 6,
+    "stock_total": 4,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 6,
+    "stock_ariana": 4,
     "prix": 350
   },
   {
@@ -1163,10 +1163,10 @@
     "dimension": "205/55R16",
     "marque": "DOUBLESTAR",
     "reference": "DS205/55R16",
-    "stock_total": 3,
+    "stock_total": 2,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 230
   },
   {
@@ -1174,9 +1174,9 @@
     "marque": "FULDA",
     "reference": "FL205/55R16",
     "stock_total": 2,
-    "stock_aouina": 0,
+    "stock_aouina": 2,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 0,
     "prix": 250
   },
   {
@@ -1193,10 +1193,10 @@
     "dimension": "205/55R16",
     "marque": "GOODYEAR",
     "reference": "GD205/55R16",
-    "stock_total": 80,
-    "stock_aouina": 0,
-    "stock_dibou": 76,
-    "stock_ariana": 4,
+    "stock_total": 76,
+    "stock_aouina": 6,
+    "stock_dibou": 60,
+    "stock_ariana": 10,
     "prix": 290
   },
   {
@@ -1613,10 +1613,10 @@
     "dimension": "215/55R17",
     "marque": "BRIDGESTONE",
     "reference": "BR215/55R17",
-    "stock_total": 8,
+    "stock_total": 4,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 4,
+    "stock_ariana": 0,
     "prix": 480
   },
   {
@@ -1703,10 +1703,10 @@
     "dimension": "215/60R17",
     "marque": "GOODYEAR",
     "reference": "GD215/60R17",
-    "stock_total": 8,
-    "stock_aouina": 0,
+    "stock_total": 7,
+    "stock_aouina": 1,
     "stock_dibou": 4,
-    "stock_ariana": 4,
+    "stock_ariana": 2,
     "prix": 520
   },
   {
@@ -2035,8 +2035,8 @@
     "reference": "GD225/45R17",
     "stock_total": 33,
     "stock_aouina": 4,
-    "stock_dibou": 28,
-    "stock_ariana": 1,
+    "stock_dibou": 25,
+    "stock_ariana": 4,
     "prix": 380
   },
   {
@@ -2094,8 +2094,8 @@
     "marque": "GOODYEAR",
     "reference": "GD225/45R18",
     "stock_total": 5,
-    "stock_aouina": 3,
-    "stock_dibou": 2,
+    "stock_aouina": 4,
+    "stock_dibou": 1,
     "stock_ariana": 0,
     "prix": 550
   },
@@ -2363,10 +2363,10 @@
     "dimension": "225/60R17",
     "marque": "HANKOOK",
     "reference": "HK225/60R17",
-    "stock_total": 5,
+    "stock_total": 4,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 1,
+    "stock_ariana": 0,
     "prix": 425
   },
   {
@@ -2873,9 +2873,9 @@
     "dimension": "255/40R20",
     "marque": "GOODYEAR",
     "reference": "GD255/40R20",
-    "stock_total": 4,
+    "stock_total": 0,
     "stock_aouina": 0,
-    "stock_dibou": 4,
+    "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 1080
   },
@@ -2953,8 +2953,8 @@
     "dimension": "255/70R16",
     "marque": "WESTLAKE",
     "reference": "WL255/70R16",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 2,
+    "stock_aouina": 2,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 520
