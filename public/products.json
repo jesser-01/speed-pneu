@@ -173,8 +173,8 @@
     "dimension": "175/60R15",
     "marque": "RADIAL",
     "reference": "RD175/60R15",
-    "stock_total": 10,
-    "stock_aouina": 5,
+    "stock_total": 9,
+    "stock_aouina": 4,
     "stock_dibou": 5,
     "stock_ariana": 0,
     "prix": 240
@@ -263,8 +263,8 @@
     "dimension": "175/65R14",
     "marque": "WESTLAKE",
     "reference": "WL175/65R14",
-    "stock_total": 32,
-    "stock_aouina": 15,
+    "stock_total": 31,
+    "stock_aouina": 14,
     "stock_dibou": 14,
     "stock_ariana": 3,
     "prix": 190
@@ -673,10 +673,10 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 48,
+    "stock_total": 45,
     "stock_aouina": 12,
     "stock_dibou": 24,
-    "stock_ariana": 12,
+    "stock_ariana": 9,
     "prix": 230
   },
   {
@@ -893,8 +893,8 @@
     "dimension": "195/60R16",
     "marque": "GOODYEAR",
     "reference": "GD195/60R16",
-    "stock_total": 21,
-    "stock_aouina": 4,
+    "stock_total": 19,
+    "stock_aouina": 2,
     "stock_dibou": 13,
     "stock_ariana": 4,
     "prix": 370
@@ -1113,8 +1113,8 @@
     "dimension": "205/45R17",
     "marque": "GOODYEAR",
     "reference": "GD205/45R17",
-    "stock_total": 14,
-    "stock_aouina": 3,
+    "stock_total": 13,
+    "stock_aouina": 2,
     "stock_dibou": 7,
     "stock_ariana": 4,
     "prix": 450
@@ -2003,8 +2003,8 @@
     "dimension": "225/40R18",
     "marque": "HANKOOK",
     "reference": "HK225/40R18",
-    "stock_total": 4,
-    "stock_aouina": 4,
+    "stock_total": 2,
+    "stock_aouina": 2,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 450
@@ -2093,8 +2093,8 @@
     "dimension": "225/45R17",
     "marque": "BRIDGESTONE",
     "reference": "BR225/45R17",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 1,
+    "stock_aouina": 1,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
