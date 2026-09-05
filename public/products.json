@@ -13,10 +13,10 @@
     "dimension": "155/70R13",
     "marque": "AMINE",
     "reference": "AM155/70R13",
-    "stock_total": 22,
+    "stock_total": 20,
     "stock_aouina": 4,
     "stock_dibou": 0,
-    "stock_ariana": 18,
+    "stock_ariana": 16,
     "prix": 180
   },
   {
@@ -223,8 +223,8 @@
     "dimension": "175/65R14",
     "marque": "GOODYEAR",
     "reference": "GD175/65R14",
-    "stock_total": 29,
-    "stock_aouina": 20,
+    "stock_total": 25,
+    "stock_aouina": 16,
     "stock_dibou": 0,
     "stock_ariana": 9,
     "prix": 240
@@ -673,10 +673,10 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 37,
+    "stock_total": 35,
     "stock_aouina": 10,
     "stock_dibou": 23,
-    "stock_ariana": 4,
+    "stock_ariana": 2,
     "prix": 230
   },
   {
@@ -713,8 +713,8 @@
     "dimension": "185/80R14C",
     "marque": "AMINE",
     "reference": "AM185/80R14C",
-    "stock_total": 4,
-    "stock_aouina": 2,
+    "stock_total": 2,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 280
@@ -983,8 +983,8 @@
     "dimension": "195/65R15",
     "marque": "WESTLAKE",
     "reference": "WL195/65R15",
-    "stock_total": 13,
-    "stock_aouina": 4,
+    "stock_total": 9,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 9,
     "prix": 240
@@ -1053,10 +1053,10 @@
     "dimension": "195R14C",
     "marque": "AMINE",
     "reference": "AM195R14C",
-    "stock_total": 3,
+    "stock_total": 2,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 340
   },
   {
@@ -1333,10 +1333,10 @@
     "dimension": "205/55R16",
     "marque": "WESTLAKE",
     "reference": "WL205/55R16",
-    "stock_total": 11,
+    "stock_total": 9,
     "stock_aouina": 5,
     "stock_dibou": 0,
-    "stock_ariana": 6,
+    "stock_ariana": 4,
     "prix": 250
   },
   {
@@ -2093,8 +2093,8 @@
     "dimension": "225/40R18",
     "marque": "NEXEN",
     "reference": "NX225/40R18",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 400
@@ -2223,8 +2223,8 @@
     "dimension": "225/45R17",
     "marque": "SEMPERIT",
     "reference": "SP225/45R17",
-    "stock_total": 14,
-    "stock_aouina": 4,
+    "stock_total": 12,
+    "stock_aouina": 2,
     "stock_dibou": 10,
     "stock_ariana": 0,
     "prix": 350
@@ -2278,6 +2278,16 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 420
+  },
+  {
+    "dimension": "225/45R18",
+    "marque": "NEXEN",
+    "reference": "NX225/45R18",
+    "stock_total": 1,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 0,
+    "prix": 400
   },
   {
     "dimension": "225/45R18RF",
