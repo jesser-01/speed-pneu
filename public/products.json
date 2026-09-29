@@ -623,8 +623,8 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 90,
-    "stock_aouina": 11,
+    "stock_total": 87,
+    "stock_aouina": 8,
     "stock_dibou": 75,
     "stock_ariana": 4,
     "prix": 280
@@ -1173,8 +1173,8 @@
     "dimension": "205/50R17",
     "marque": "GOODYEAR",
     "reference": "GD205/50R17",
-    "stock_total": 0,
-    "stock_aouina": 4,
+    "stock_total": 4,
+    "stock_aouina": 8,
     "stock_dibou": -4,
     "stock_ariana": 0,
     "prix": 480
@@ -3228,6 +3228,16 @@
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 650
+  },
+  {
+    "dimension": "265/65R17",
+    "marque": "NEXEN",
+    "reference": "NX265/65R17",
+    "stock_total": 5,
+    "stock_aouina": 1,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 680
   },
   {
     "dimension": "265/70R16",
