@@ -1443,8 +1443,8 @@
     "dimension": "205/60R16",
     "marque": "GOODYEAR",
     "reference": "GD205/60R16",
-    "stock_total": -1,
-    "stock_aouina": -2,
+    "stock_total": 3,
+    "stock_aouina": 2,
     "stock_dibou": 1,
     "stock_ariana": 0,
     "prix": 380
@@ -2083,10 +2083,10 @@
     "dimension": "225/40R18",
     "marque": "GOODYEAR",
     "reference": "GD225/40R18",
-    "stock_total": -1,
-    "stock_aouina": 1,
+    "stock_total": 5,
+    "stock_aouina": 5,
     "stock_dibou": -4,
-    "stock_ariana": 2,
+    "stock_ariana": 4,
     "prix": 480
   },
   {
