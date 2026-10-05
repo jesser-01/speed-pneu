@@ -13,8 +13,8 @@
     "dimension": "155/70R13",
     "marque": "AMINE",
     "reference": "AM155/70R13",
-    "stock_total": 10,
-    "stock_aouina": 3,
+    "stock_total": 9,
+    "stock_aouina": 2,
     "stock_dibou": -2,
     "stock_ariana": 9,
     "prix": 180
@@ -163,8 +163,8 @@
     "dimension": "175/60R15",
     "marque": "GOODYEAR",
     "reference": "GD175/60R15",
-    "stock_total": 10,
-    "stock_aouina": 4,
+    "stock_total": 8,
+    "stock_aouina": 2,
     "stock_dibou": 2,
     "stock_ariana": 4,
     "prix": 370
@@ -253,10 +253,10 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 18,
+    "stock_total": 17,
     "stock_aouina": 7,
     "stock_dibou": 8,
-    "stock_ariana": 3,
+    "stock_ariana": 2,
     "prix": 215
   },
   {
@@ -483,8 +483,8 @@
     "dimension": "185/60R15",
     "marque": "GOODYEAR",
     "reference": "GD185/60R15",
-    "stock_total": 34,
-    "stock_aouina": 4,
+    "stock_total": 33,
+    "stock_aouina": 3,
     "stock_dibou": 26,
     "stock_ariana": 4,
     "prix": 300
@@ -1303,8 +1303,8 @@
     "dimension": "205/55R16",
     "marque": "NEXEN",
     "reference": "NX205/55R16",
-    "stock_total": 2,
-    "stock_aouina": 2,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 250
@@ -1333,10 +1333,10 @@
     "dimension": "205/55R16",
     "marque": "WESTLAKE",
     "reference": "WL205/55R16",
-    "stock_total": 7,
+    "stock_total": 5,
     "stock_aouina": 5,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 0,
     "prix": 250
   },
   {
