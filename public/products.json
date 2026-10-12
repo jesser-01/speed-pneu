@@ -13,10 +13,10 @@
     "dimension": "155/70R13",
     "marque": "AMINE",
     "reference": "AM155/70R13",
-    "stock_total": 3,
+    "stock_total": 2,
     "stock_aouina": 3,
     "stock_dibou": -4,
-    "stock_ariana": 4,
+    "stock_ariana": 3,
     "prix": 180
   },
   {
@@ -83,8 +83,8 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 19,
-    "stock_aouina": 6,
+    "stock_total": 15,
+    "stock_aouina": 2,
     "stock_dibou": 9,
     "stock_ariana": 4,
     "prix": 200
@@ -255,8 +255,8 @@
     "reference": "SP175/65R14",
     "stock_total": 7,
     "stock_aouina": 4,
-    "stock_dibou": 5,
-    "stock_ariana": -2,
+    "stock_dibou": -1,
+    "stock_ariana": 4,
     "prix": 215
   },
   {
@@ -603,10 +603,10 @@
     "dimension": "185/65R15",
     "marque": "FULDA",
     "reference": "FL185/65R15",
-    "stock_total": 80,
+    "stock_total": 78,
     "stock_aouina": 8,
-    "stock_dibou": 70,
-    "stock_ariana": 2,
+    "stock_dibou": 66,
+    "stock_ariana": 4,
     "prix": 245
   },
   {
@@ -675,8 +675,8 @@
     "reference": "WL185/65R15",
     "stock_total": 20,
     "stock_aouina": 8,
-    "stock_dibou": 9,
-    "stock_ariana": 3,
+    "stock_dibou": 4,
+    "stock_ariana": 8,
     "prix": 230
   },
   {
@@ -2263,8 +2263,8 @@
     "dimension": "225/45R17",
     "marque": "SEMPERIT",
     "reference": "SP225/45R17",
-    "stock_total": 8,
-    "stock_aouina": 4,
+    "stock_total": 6,
+    "stock_aouina": 2,
     "stock_dibou": 4,
     "stock_ariana": 0,
     "prix": 350
