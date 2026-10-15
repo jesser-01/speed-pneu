@@ -743,8 +743,8 @@
     "dimension": "195/50R15",
     "marque": "AMINE",
     "reference": "AM195/50R15",
-    "stock_total": 11,
-    "stock_aouina": 5,
+    "stock_total": 10,
+    "stock_aouina": 4,
     "stock_dibou": -1,
     "stock_ariana": 7,
     "prix": 210
@@ -823,8 +823,8 @@
     "dimension": "195/55R16",
     "marque": "GOODYEAR",
     "reference": "GD195/55R16",
-    "stock_total": 22,
-    "stock_aouina": 6,
+    "stock_total": 20,
+    "stock_aouina": 4,
     "stock_dibou": 12,
     "stock_ariana": 4,
     "prix": 370
@@ -1043,8 +1043,8 @@
     "dimension": "195/75R16C",
     "marque": "SEMPERIT",
     "reference": "SP195/75R16C",
-    "stock_total": 4,
-    "stock_aouina": 7,
+    "stock_total": 1,
+    "stock_aouina": 4,
     "stock_dibou": -4,
     "stock_ariana": 1,
     "prix": 430
