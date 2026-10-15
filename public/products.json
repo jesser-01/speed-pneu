@@ -1454,9 +1454,9 @@
     "marque": "GOODYEAR",
     "reference": "GD205/60R16",
     "stock_total": 3,
-    "stock_aouina": 2,
+    "stock_aouina": 6,
     "stock_dibou": -3,
-    "stock_ariana": 4,
+    "stock_ariana": 0,
     "prix": 380
   },
   {
@@ -1464,9 +1464,9 @@
     "marque": "HANKOOK",
     "reference": "HK205/60R16",
     "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_aouina": 5,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": -4,
     "prix": 350
   },
   {
