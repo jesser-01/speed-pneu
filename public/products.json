@@ -123,8 +123,8 @@
     "dimension": "165/70R13",
     "marque": "RADIAL",
     "reference": "RD165/70R13",
-    "stock_total": 3,
-    "stock_aouina": 0,
+    "stock_total": 7,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 3,
     "prix": 200
@@ -1483,11 +1483,11 @@
     "dimension": "205/60R16",
     "marque": "LUFEN",
     "reference": "LF205/60R16",
-    "stock_total": 0,
+    "stock_total": 5,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
-    "prix": 300
+    "stock_ariana": 5,
+    "prix": 330
   },
   {
     "dimension": "205/60R16",
