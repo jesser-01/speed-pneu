@@ -63,9 +63,9 @@
     "dimension": "165/65R14",
     "marque": "FULDA",
     "reference": "FL165/65R14",
-    "stock_total": 26,
+    "stock_total": 19,
     "stock_aouina": 4,
-    "stock_dibou": 18,
+    "stock_dibou": 11,
     "stock_ariana": 4,
     "prix": 200
   },
@@ -83,9 +83,9 @@
     "dimension": "165/65R14",
     "marque": "SEMPERIT",
     "reference": "SP165/65R14",
-    "stock_total": 14,
+    "stock_total": 11,
     "stock_aouina": 4,
-    "stock_dibou": 6,
+    "stock_dibou": 3,
     "stock_ariana": 4,
     "prix": 200
   },
