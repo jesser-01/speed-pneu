@@ -1463,10 +1463,10 @@
     "dimension": "205/60R16",
     "marque": "HANKOOK",
     "reference": "HK205/60R16",
-    "stock_total": 1,
+    "stock_total": 5,
     "stock_aouina": 5,
     "stock_dibou": 0,
-    "stock_ariana": -4,
+    "stock_ariana": 0,
     "prix": 350
   },
   {
@@ -1643,9 +1643,9 @@
     "dimension": "215/45R18",
     "marque": "GOODYEAR",
     "reference": "GD215/45R18",
-    "stock_total": 2,
+    "stock_total": 6,
     "stock_aouina": 4,
-    "stock_dibou": -4,
+    "stock_dibou": 0,
     "stock_ariana": 2,
     "prix": 550
   },
