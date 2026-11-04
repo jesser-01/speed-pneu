@@ -253,10 +253,10 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 5,
+    "stock_total": 3,
     "stock_aouina": -1,
     "stock_dibou": 4,
-    "stock_ariana": 2,
+    "stock_ariana": 0,
     "prix": 215
   },
   {
@@ -1293,10 +1293,10 @@
     "dimension": "205/55R16",
     "marque": "GOODYEAR",
     "reference": "GD205/55R16",
-    "stock_total": 85,
+    "stock_total": 81,
     "stock_aouina": 4,
     "stock_dibou": 76,
-    "stock_ariana": 5,
+    "stock_ariana": 1,
     "prix": 290
   },
   {
