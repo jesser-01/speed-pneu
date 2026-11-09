@@ -13,8 +13,8 @@
     "dimension": "155/70R13",
     "marque": "AMINE",
     "reference": "AM155/70R13",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 180
@@ -253,8 +253,8 @@
     "dimension": "175/65R14",
     "marque": "SEMPERIT",
     "reference": "SP175/65R14",
-    "stock_total": 5,
-    "stock_aouina": 5,
+    "stock_total": 4,
+    "stock_aouina": 4,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 215
@@ -743,8 +743,8 @@
     "dimension": "195/45R16",
     "marque": "SEMPERIT",
     "reference": "SP195/45R16",
-    "stock_total": 3,
-    "stock_aouina": 2,
+    "stock_total": 7,
+    "stock_aouina": 6,
     "stock_dibou": 0,
     "stock_ariana": 1,
     "prix": 380
@@ -1773,10 +1773,10 @@
     "dimension": "215/55R16",
     "marque": "RADIAL",
     "reference": "RD215/55R16",
-    "stock_total": 2,
+    "stock_total": 0,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 2,
+    "stock_ariana": 0,
     "prix": 280
   },
   {
@@ -2623,8 +2623,8 @@
     "dimension": "225/60R18",
     "marque": "GOODYEAR",
     "reference": "GD225/60R18",
-    "stock_total": 1,
-    "stock_aouina": 1,
+    "stock_total": 0,
+    "stock_aouina": 0,
     "stock_dibou": 0,
     "stock_ariana": 0,
     "prix": 700
