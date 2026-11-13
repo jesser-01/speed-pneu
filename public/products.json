@@ -683,10 +683,10 @@
     "dimension": "185/65R15",
     "marque": "WESTLAKE",
     "reference": "WL185/65R15",
-    "stock_total": 9,
-    "stock_aouina": 4,
+    "stock_total": 8,
+    "stock_aouina": 7,
     "stock_dibou": 0,
-    "stock_ariana": 5,
+    "stock_ariana": 1,
     "prix": 230
   },
   {
@@ -1941,6 +1941,16 @@
   },
   {
     "dimension": "215/65R16",
+    "marque": "HANKOOK",
+    "reference": "RS215/65R16",
+    "stock_total": 4,
+    "stock_aouina": 0,
+    "stock_dibou": 0,
+    "stock_ariana": 4,
+    "prix": 350
+  },
+  {
+    "dimension": "215/65R16",
     "marque": "LUFEN",
     "reference": "LF215/65R16",
     "stock_total": 0,
@@ -2783,10 +2793,10 @@
     "dimension": "235/55R18",
     "marque": "HANKOOK",
     "reference": "HK235/55R18",
-    "stock_total": 3,
+    "stock_total": 7,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 3,
+    "stock_ariana": 7,
     "prix": 520
   },
   {
@@ -2883,10 +2893,10 @@
     "dimension": "235/60R18",
     "marque": "HANKOOK",
     "reference": "HK235/60R18",
-    "stock_total": 0,
+    "stock_total": 4,
     "stock_aouina": 0,
     "stock_dibou": 0,
-    "stock_ariana": 0,
+    "stock_ariana": 4,
     "prix": 550
   },
   {
