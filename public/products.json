@@ -403,10 +403,10 @@
     "dimension": "175/70R14",
     "marque": "WESTLAKE",
     "reference": "WL175/70R14",
-    "stock_total": 11,
+    "stock_total": 9,
     "stock_aouina": 6,
     "stock_dibou": 0,
-    "stock_ariana": 5,
+    "stock_ariana": 3,
     "prix": 200
   },
   {
@@ -633,10 +633,10 @@
     "dimension": "185/65R15",
     "marque": "GOODYEAR",
     "reference": "GD185/65R15",
-    "stock_total": 55,
+    "stock_total": 51,
     "stock_aouina": 4,
     "stock_dibou": 47,
-    "stock_ariana": 4,
+    "stock_ariana": 0,
     "prix": 280
   },
   {
@@ -1303,10 +1303,10 @@
     "dimension": "205/55R16",
     "marque": "GOODYEAR",
     "reference": "GD205/55R16",
-    "stock_total": 76,
+    "stock_total": 75,
     "stock_aouina": 3,
     "stock_dibou": 66,
-    "stock_ariana": 7,
+    "stock_ariana": 6,
     "prix": 290
   },
   {
